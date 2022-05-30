@@ -2,7 +2,7 @@
 
 <p>Clone o projeto usando o comando</p>
 
-<h6 style="color: #646464">git clone https://github.com/jonatasandradedeveloper/hiperfit.git</h6>
+<h6 style="color: #646464">git clone https://github.com/jonatasandradedeveloper/ApiAdonisExample.git</h6>
 
 <h3 style="color: #646464">Rode os comandos abaixo</h3>
 

@@ -13,19 +13,31 @@ Tudo aqui é editável. A cada 1:1, atualize o histórico, o status das priorida
 
 ## Versão Word (editável no Microsoft Word / Google Docs)
 
-Os mesmos conteúdos estão em **`.docx`** em [`word/`](word/):
+### Documentos completos (use estes)
+
+| Arquivo | Conteúdo |
+|---|---|
+| [`word/Andressa-Historico-Completo-People-Lead.docx`](word/Andressa-Historico-Completo-People-Lead.docx) | Capa, sumário, ficha, 1:1s, prioridades, carreira, ciclo, ações, anexos |
+| [`word/Ana-Historico-Completo-People-Lead.docx`](word/Ana-Historico-Completo-People-Lead.docx) | Idem para a Ana |
+
+Regenerar os completos:
+
+```bash
+cd people-lead && python3 generate_complete_docs.py
+```
+
+### Demais arquivos Word
 
 | Arquivo | Uso |
 |---|---|
-| `word/DOSSIE-ANDRESSA.docx` | Dossiê completo da Andressa (recomendado para editar no dia a dia) |
-| `word/DOSSIE-ANA.docx` | Dossiê completo da Ana |
 | `word/00-dashboard.docx` | Visão das duas |
 | `word/01-ciclo-dezembro-orientacao.docx` | Orientação do December Cycle |
 | `word/02-parecer-prioridades.docx` | Parecer das prioridades |
 | `word/andressa/*.docx` / `word/ana/*.docx` | Capítulos soltos |
 | `word/_templates/*.docx` | Templates de 1:1, feedback e fechamento |
+| `word/DOSSIE-*.docx` | Versão concatenada simples (preferir os *Historico-Completo*) |
 
-Para regenerar os Word a partir dos Markdown:
+Para regenerar os Word a partir dos Markdown (capítulos + dossiês simples):
 
 ```bash
 cd people-lead && python3 generate_word.py

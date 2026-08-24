@@ -1,4 +1,4 @@
-# Andressa — prioridades
+# Andressa Silva — prioridades
 
 Prioridades **declaradas por ela** no início / meio do FY, mais o parecer do People Lead para o fechamento do December Cycle.
 
@@ -12,7 +12,7 @@ Continuar estudando e revendo materiais para conseguir tirar a AI-900.
 |---|---|
 | Status em 24/08 | `[BLOQUEADO]` / candidato a `[REORIENTAR]` |
 | Alinhamento empresa | Alto no discurso (IA virou pauta obrigatória da prática) |
-| Alinhamento cargo / projeto | Baixo no dia a dia (Bradesco legado, TFS, SOAP, suporte) |
+| Alinhamento cargo / projeto | Baixo no dia a dia (MAPFRE legado, TFS, SOAP, suporte) |
 | Risco | Já tentou 3–4 vezes; prova em inglês; histórico de desânimo |
 | Evidência hoje | Tentativas + estudo. **Não há badge.** Também tem SC-900 e DP-900, que não estão nesta prioridade |
 
@@ -32,7 +32,7 @@ Entrou no voluntariado do grupo para apoiar o onboarding de novas participantes.
 
 **Parcialmente. Estão incompletas para o ciclo.**
 
-Elas descrevem a profissional que Andressa **quer ser** (IA + comunidade). Não descrevem a profissional que o Bradesco **avalia hoje** (Analyst de backend em sustentação).
+Elas descrevem a profissional que Andressa **quer ser** (IA + comunidade). Não descrevem a profissional que a MAPFRE **avalia hoje** (Analyst de backend em sustentação).
 
 No December Cycle, Talent e prática cruzam:
 
@@ -87,13 +87,13 @@ Não inventar um FY que não existiu. Reorganizar o que ela já fez em três fre
 
 | # | Prioridade para fechar | Origem | Como escrever o resultado |
 |---|---|---|---|
-| 1 | **Atuação no Bradesco — sustentação com qualidade** | implícita na 1:1; precisa entrar no texto | Casos de incidente, tempo de análise, o que evitou para o parceiro, feedback do Rafael Martins |
+| 1 | **Atuação na MAPFRE — sustentação com qualidade** | implícita na 1:1; precisa entrar no texto | Casos de incidente, tempo de análise, o que evitou para o parceiro, feedback do Rafael Martins |
 | 2 | **Desenvolvimento técnico direcionado** | reframing da AI-900 | Estudo + tentativas + SC/DP-900 + Copilot skill + decisão da próxima certificação realista (GH-900 ou retomar AI quando o inglês aguentar) |
 | 3 | **Women In Tech — onboarding** | prioridade original | Evidência de contribuição no grupo |
 
 ### O que dizer para ela (tom)
 
-> Suas duas prioridades mostram quem você quer ser, e isso está alinhado com a Avanade. Para o ciclo, a gente precisa que o Workday também mostre o que você **entregou no Bradesco**. Certificação sem badge não pode ser o capítulo principal. Women In Tech entra como evidência de cultura. Desenvolvimento técnico a gente reescreve como trilha, não como reprovação.
+> Suas duas prioridades mostram quem você quer ser, e isso está alinhado com a Avanade. Para o ciclo, a gente precisa que o Workday também mostre o que você **entregou na MAPFRE**. Certificação sem badge não pode ser o capítulo principal. Women In Tech entra como evidência de cultura. Desenvolvimento técnico a gente reescreve como trilha, não como reprovação.
 
 ## Registro de evolução das prioridades
 

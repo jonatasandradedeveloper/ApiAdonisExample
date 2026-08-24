@@ -31,27 +31,27 @@ ACCENT = "1F3A5F"
 
 PEOPLE = {
     "andressa": {
-        "nome": "Andressa",
+        "nome": "Andressa Silva",
         "cargo": "Analyst, Back-End Developer",
-        "cliente": "BANCO BRADESCO SA",
-        "arquivo": "Andressa-Historico-Completo-People-Lead.docx",
+        "cliente": "MAPFRE (sustentação / stack legado)",
+        "arquivo": "Andressa-Silva-Historico-Completo-People-Lead.docx",
         "veredito": (
             "Prioridades com sentido de carreira, incompletas para o ciclo. "
-            "Falta performance no projeto. AI-900 está bloqueada (inglês + tentativas). "
-            "Women In Tech mantém. Fechar FY26 com 3 frentes: Bradesco + trilha técnica + Women In Tech. "
-            "Promoção não é a tese deste FY."
+            "Falta performance na MAPFRE. AI-900 está bloqueada (inglês + tentativas). "
+            "Women In Tech mantém. Fechar FY26 com 3 frentes: MAPFRE + trilha técnica + Women In Tech. "
+            "Promoção não é a tese deste FY. Não confundir com Ana Karina (BANCO BRADESCO)."
         ),
     },
     "ana": {
-        "nome": "Ana",
+        "nome": "Ana Karina",
         "cargo": "Associate, Mobile & Device Dev",
-        "cliente": "MAPFRE (cadastro) / Bradesco app nativo (relato 1:1 — confirmar)",
-        "arquivo": "Ana-Historico-Completo-People-Lead.docx",
+        "cliente": "BANCO BRADESCO — app nativo (Kotlin / Android)",
+        "arquivo": "Ana-Karina-Historico-Completo-People-Lead.docx",
         "veredito": (
             "Direção boa, portfólio inchado (7 prioridades). "
-            "Copilot aplicado é o ouro. Inglês B2→C1+ já entregue. Swift é FY27. "
+            "Copilot aplicado no Bradesco é o ouro. Inglês B2→C1+ já entregue. Swift é FY27. "
             "Recortar para 3 frentes: app + Copilot/IA + desenvolvimento do Associate. "
-            "Confirmar cliente. Promoção cedo demais salvo evidência excepcional."
+            "Promoção cedo demais salvo evidência excepcional. Não confundir com Andressa Silva (MAPFRE)."
         ),
     },
 }

@@ -1,12 +1,12 @@
-# Ana — plano de carreira
+# Ana Karina — plano de carreira
 
 Cargo atual: **Associate, Mobile & Device Dev**.  
-Projeto atual (relato): **app nativo Kotlin/Android** (confirmar se Bradesco ou MAPFRE).  
+Projeto atual: **BANCO BRADESCO — app nativo Kotlin/Android**.  
 Horizonte: virar Analyst de mobile com viés de arquitetura, sem quebrar a faculdade.
 
 ## Norte
 
-Ana já escolheu o campo: **mobile nativo**, com vontade de **arquitetura de solução mobile**, e Swift como segunda perna (iOS). O plano é uma escada, não um sprint.
+Ana Karina já escolheu o campo: **mobile nativo**, com vontade de **arquitetura de solução mobile**, e Swift como segunda perna (iOS). O plano é uma escada, não um sprint.
 
 ```text
 Associate (agora)

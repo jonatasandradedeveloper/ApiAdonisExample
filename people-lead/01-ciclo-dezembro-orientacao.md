@@ -22,7 +22,7 @@ Datas ainda serão precisadas pelo Talent. Tratar os marcos abaixo como janela, 
 
 ## Papel de cada um
 
-### Profissional (Andressa e Ana)
+### Profissional (Andressa Silva — MAPFRE; Ana Karina — BANCO BRADESCO)
 
 1. **Fechar as prioridades** definidas no início do FY. Não reescrever a história: refletir o que entregou, o que faltou e o que ficou em 100%.
 2. **Fazer autoavaliação / self-reflection no Workday.** Quem não escreve some na calibração da prática.
@@ -59,7 +59,7 @@ Estes itens entram no checklist de cada pessoa porque a prática usa isso na mob
 | goFluent | Teste de proficiência no login Accenture | Registrar nível no mini CV; ajuda em staffing |
 | Compliance | Itens obrigatórios zerados | Impacta avaliação e pode impactar bônus |
 | Copilot / agentes | Empresa e projetos novos estão puxando isso | Evidência de uso vale mais do que “quero aprender IA” |
-| Comunidade da prática | Cases, library de ferramentas, participação | Ana já vive isso no cliente; Andressa quase não aparece nesse radar |
+| Comunidade da prática | Cases, library de ferramentas, participação | Ana Karina (Bradesco) já vive isso no cliente; Andressa Silva (MAPFRE) quase não aparece nesse radar |
 
 ## Férias (ADP) — o PL aprova
 

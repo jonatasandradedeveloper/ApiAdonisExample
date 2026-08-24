@@ -1,4 +1,4 @@
-# Ana — prioridades
+# Ana Karina — prioridades
 
 Prioridades **declaradas por ela**, mais o parecer do People Lead para o fechamento do December Cycle.
 
@@ -76,7 +76,7 @@ Comunicação profissional, documentação, contexto internacional. Evidência j
 
 **A direção sim. A lista não.**
 
-Ana pensou como Associate aplicada: IA, Copilot, aprendizado, cultura, Swift, inglês. Nada disso é “errado”. O problema é de **portfólio de metas**:
+Ana Karina pensou como Associate aplicada: IA, Copilot, aprendizado, cultura, Swift, inglês. Nada disso é “errado”. O problema é de **portfólio de metas**:
 
 - Sete prioridades é ensaio, não ciclo.
 - Duas delas (4 e 5) são a mesma coisa.
@@ -88,7 +88,7 @@ Ana pensou como Associate aplicada: IA, Copilot, aprendizado, cultura, Swift, in
 
 A CALL foi explícita: feche o que combinou, com autoavaliação honesta, e documente no Workday. Também foi explícita em Copilot, mini CV e não deixar avaliação vazia.
 
-Comparado com o que a prática está contratando de narrativa, Ana deveria chegar em setembro com **três capítulos**:
+Comparado com o que a prática está contratando de narrativa, Ana Karina deveria chegar em setembro com **três capítulos**:
 
 1. Entreguei no app (Kotlin/Android, qualidade, evolução junto com o produto).
 2. Coloquei Copilot/IA para trabalhar (prompt, agente, review, token) — com exemplo.

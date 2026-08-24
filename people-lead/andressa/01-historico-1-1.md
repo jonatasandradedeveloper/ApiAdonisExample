@@ -1,4 +1,4 @@
-# Andressa — histórico de 1:1s
+# Andressa Silva — histórico de 1:1s
 
 Arquivo **append-only**: a conversa nova entra no topo. Não reescreva o passado; se algo mudou, registre na 1:1 nova.
 
@@ -32,7 +32,7 @@ Roteiro curto (30–40 min):
 - **Formato:** call
 - **Contexto:** troca de CA/People Lead (Josias → Jônatas). Andressa conhece o Josias desde a entrada; relação boa.
 - **Cadência:** PL propôs mensal. Ela aceitou.
-- **Alocação:** Bradesco, sustentação, desde outubro/2025.
+- **Alocação:** MAPFRE, sustentação, desde outubro/2025.
 
 ### Como está o trabalho
 
@@ -89,5 +89,5 @@ Há demandas familiares pontuais. Ela já comunica o gestor do projeto quando pr
 
 - A energia da call foi boa, mas o conteúdo é de **profissional estagnada num legado**. Se o FY26 fechar só com “não passou na AI-900” + voluntariado, a calibração fica fraca.
 - O feedback “você não estuda” no projeto anterior é um ferimento. Na autoavaliação, não usar tom de defesa — usar evidência (tentativas, cursos, SC/DP-900, Power Skills, Women In Tech).
-- Mobilidade: não promete tirar ela do Bradesco na 1:1 #2. Promete **documentar o caso** e, depois do input de setembro, conversar staffing com clareza.
+- Mobilidade: não promete tirar ela da MAPFRE na 1:1 #2. Promete **documentar o caso** e, depois do input de setembro, conversar staffing com clareza.
 - Confirmar se a daily 9h + Power Skills realmente a isolam da prática. Se sim, o PL vira ponte (repassa recados da CALL).

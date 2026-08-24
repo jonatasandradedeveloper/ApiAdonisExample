@@ -1,4 +1,4 @@
-# Ana — histórico de 1:1s
+# Ana Karina — histórico de 1:1s
 
 Arquivo **append-only**: a conversa nova entra no topo. Não reescreva o passado; se algo mudou, registre na 1:1 nova.
 
@@ -12,7 +12,7 @@ Ela está acostumada a sair da 1:1 com **plano**. Levar isso pronto, não improv
 
 Pauta:
 
-1. Confirmar cliente (MAPFRE vs Bradesco) e gestor.
+1. Confirmar nome oficial do app / contrato no Bradesco e e-mail do gestor.
 2. Recortar 7 prioridades → 3 de fechamento FY26.
 3. Transformar Copilot/IA em evidência (antes/depois, 1 case, 1 número).
 4. Autoavaliação no Workday + revisores.
@@ -34,7 +34,7 @@ Quadro para preencher na call (copiar o resultado em `03-plano-carreira.md`):
 
 - **Formato:** call. Começo atropelado (ela no mudo; time em entrega; tiroteio na Square — contexto Recife).
 - **Contexto:** troca de CA/People Lead (Paula → Jônatas).
-- **Alocação no relato:** Bradesco, app nativo novo, Kotlin/Android. Cadastro informado: MAPFRE.
+- **Alocação:** BANCO BRADESCO, app nativo novo, Kotlin/Android.
 - **Gestor:** Rafael.
 
 ### Como está o trabalho
@@ -78,7 +78,7 @@ Quadro para preencher na call (copiar o resultado em `03-plano-carreira.md`):
 
 ### Notas do PL (não ler na call)
 
-- Energia oposta à da Andressa: Ana está no projeto certo para o momento.
+- Energia oposta à da Andressa Silva: Ana Karina está no projeto certo para o momento.
 - Cuidado para o PL não projetar a própria história Flutter nela. O norte dela é **nativo + arquitetura**, com Swift no radar.
 - Copilot já é o diferencial. Se o Workday não contar isso com exemplo, a prática não vê.
 - Associate + faculdade: proteger contra overcommit. 7 prioridades é overcommit institucionalizado.

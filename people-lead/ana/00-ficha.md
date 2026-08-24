@@ -1,14 +1,13 @@
-# Ana — ficha
+# Ana Karina — ficha
 
 Atualizar o topo desta ficha sempre que mudar alocação, cargo ou sinal de risco.
 
 | Campo | Valor | Atualizado em |
 |---|---|---|
-| Nome | Ana | 2026-08-24 |
+| Nome | Ana Karina | 2026-08-24 |
 | Cargo | Associate, Mobile & Device Dev | 2026-07-28 |
-| Cliente (cadastro informado) | MAPFRE | 2026-07-28 |
-| Cliente (relato na 1:1) | **Bradesco — app nativo novo, Kotlin / Android** | 2026-07-28 |
-| Gestor no projeto | Rafael | 2026-07-28 |
+| Cliente / projeto | **BANCO BRADESCO** — app nativo novo (Kotlin / Android) | 2026-08-24 |
+| Gestor no projeto | Rafael — **confirmar e-mail / sobrenome** | 2026-07-28 |
 | People Lead | Jônatas (desde jul/2026; anterior: Paula) | 2026-07-28 |
 | CA anterior | Paula (chegou a ter 70 → 120 → 200 pessoas; 1:1 ~bimestral, mas planejamento de trimestre/semestre/ano) | 2026-07-28 |
 | Base | Recife | 2026-07-28 |
@@ -18,15 +17,13 @@ Atualizar o topo desta ficha sempre que mudar alocação, cargo ou sinal de risc
 | 1:1 cadência | Mensal (combinado na call 1; com a Paula era ~2 meses) | 2026-07-28 |
 | Próxima 1:1 | **Agendar imediatamente** (call 1 foi 28/07; ciclo fecha em setembro) | 2026-08-24 |
 
-## Atenção: divergência de cliente
-
-No material de cargo consta **MAPFRE**. Na 1:1 ela descreveu atuação no **Bradesco** (app novo, Kotlin, nativo Android; iOS na outra metade da equipe). **Confirmar na 1:1 #2** e corrigir a ficha. Staffing, avaliação e People Lead errado de cliente geram avaliação no lugar errado.
+> Correção 24/08: cliente oficial é **BANCO BRADESCO**. Não confundir com Andressa Silva (MAPFRE).
 
 ## Leitura rápida para o People Lead
 
-Ana é Associate recém-chegada (1 ano em jun/jul 2026), ainda na faculdade, com energia alta e projeto que ela gosta. O crescimento dela está **colado no cliente**: app novo, linguagem nova, Copilot, agentes, acessibilidade, custo de token. Isso é exatamente o que a CALL da prática pediu (Copilot skill, IA no dia a dia, case que agrega além do contrato).
+Ana Karina é Associate recém-chegada (1 ano em jun/jul 2026), ainda na faculdade, com energia alta e projeto que ela gosta no **Bradesco**. O crescimento dela está **colado no cliente**: app novo, linguagem nova, Copilot, agentes, acessibilidade, custo de token. Isso é exatamente o que a CALL da prática pediu (Copilot skill, IA no dia a dia, case que agrega além do contrato).
 
-O risco dela é o oposto do da Andressa: **prioridades demais, pouca meta de entrega**. Sete prioridades diluem o ciclo. Inglês C1+ já é vitória — não pode continuar como prioridade de crescimento. Swift é aposta de FY27. Certificação de IA ela mesma adiou, com razão, por causa da faculdade e do cliente.
+O risco dela é o oposto do da Andressa Silva: **prioridades demais, pouca meta de entrega**. Sete prioridades diluem o ciclo. Inglês C1+ já é vitória — não pode continuar como prioridade de crescimento. Swift é aposta de FY27. Certificação de IA ela mesma adiou, com razão, por causa da faculdade e do cliente.
 
 Com a Paula, o rito era planejamento de trimestre / semestre / ano. Recriar isso. Ela sente falta.
 
@@ -37,8 +34,7 @@ Com a Paula, o rito era planejamento de trimestre / semestre / ano. Recriar isso
    - Atuação real puxou para mobile.
    - Flutter um pouco; vontade original era iOS/Swift.
    - Sem Mac no Recife no início → redirecionada para Android.
-2. **Hoje — app nativo (Kotlin / Android)**
-   - Cliente no relato: Bradesco, app novo.
+2. **Hoje — BANCO BRADESCO, app nativo (Kotlin / Android)**
    - Front nativo. Time misto Android/iOS.
    - Gosta do time e do fato de aprender todo dia junto com a evolução do produto.
    - Já usa Copilot/IA no fluxo: prompts, agente de acessibilidade, otimização de token (conexão com IADrops / Osvaldo, Recife).
@@ -60,14 +56,13 @@ Com a Paula, o rito era planejamento de trimestre / semestre / ano. Recriar isso
 |---|---|---|
 | 7 prioridades | Calibração não lê ensaio; lê 3 evidências | Recortar para 3 de ciclo + 2 de carreira |
 | Faculdade presencial | Tempo real. Certificação e Swift competem com entrega | Proteger o foco; não empilhar meta |
-| Cliente MAPFRE vs Bradesco | Avaliação pode ir para o contrato errado | Confirmar e corrigir agora |
 | Associate ~1 ano | Promoção cedo precisa de evidência excepcional | Não inflar expectativa; montar caso Analyst para FY27 se o ano estiver sólido |
 | Swift sem Mac / sem alocação iOS | Prioridade romântica | Estacionar no FY26; manter acesa no plano |
 | PL novo e alocado em projeto | Paula dava planejamento de horizonte; ela vai cobrar isso | 1:1 mensal **com pauta de plano**, não só papo |
 
 ## Dados a confirmar na próxima 1:1
 
-- [ ] Cliente oficial: MAPFRE ou Bradesco (e o nome do app)
+- [ ] Nome oficial do app / contrato no Bradesco
 - [ ] E-mail do Rafael (gestor) e da Paula (CA anterior)
 - [ ] Workday: as 7 prioridades já estão lá? Dá para agrupar no fechamento?
 - [ ] Compliance 31/07 — ela ia conferir

@@ -1,4 +1,4 @@
-# Ana — ações
+# Ana Karina — ações
 
 Lista operacional. Marque, datar, mover para o histórico quando concluir.
 
@@ -7,12 +7,11 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 ### People Lead
 
 - [ ] Agendar 1:1 #2 com quadro trimestre / semestre / ano na pauta
-- [ ] Confirmar cliente oficial (MAPFRE vs Bradesco) e corrigir a ficha
 - [ ] Pegar e-mail da Paula e do Rafael, se ainda não chegou
 - [ ] Revisar rascunho da autoavaliação **antes** da submissão
 - [ ] Combinar expectativa de cargo (consolidar vs. conversa de Analyst)
 
-### Ana
+### Ana Karina
 
 - [ ] Recortar prioridades no Workday (3 frentes)
 - [ ] Escrever 1 case de Copilot (problema → ação → efeito)

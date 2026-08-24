@@ -1,4 +1,4 @@
-# Ana — insumos para o December Cycle
+# Ana Karina — insumos para o December Cycle
 
 Briefing do People Lead para Workday, calibração da prática e feedback de novembro.
 
@@ -10,7 +10,7 @@ Briefing do People Lead para Workday, calibração da prática e feedback de nov
 | Mérito / destaque de Associate? | **Sim, se Copilot + entrega aparecerem no Workday** | Case escrito |
 | Mensagem de feedback | “Você priorizou o cliente com razão. O ciclo precisa enxergar isso. Inglês C1+ já é resultado. IA e Swift continuam no plano, com menos itens ao mesmo tempo.” | |
 
-Levar para a prática: **Associate mobile em produto nativo, alto engajamento, uso real de Copilot/agentes, inglês C1+, norte de arquitetura. Risco: prioridades dispersas e possível cliente cadastrado errado.**
+Levar para a prática: **Associate mobile no BANCO BRADESCO (app nativo), alto engajamento, uso real de Copilot/agentes, inglês C1+, norte de arquitetura. Risco: prioridades dispersas no Workday.**
 
 ## Roteiro da autoavaliação (ela escreve; PL revisa)
 
@@ -55,7 +55,6 @@ Só escrever voluntariado / impacto social se houver fato. Senão, uma linha: �
 
 ## Checklist Workday / empresa
 
-- [ ] **Confirmar cliente no cadastro** (MAPFRE vs Bradesco)
 - [ ] Recortar / fechar as 7 prioridades com texto honesto
 - [ ] Self-review submetido
 - [ ] Revisores conversados

@@ -1,4 +1,4 @@
-# Andressa — insumos para o December Cycle
+# Andressa Silva — insumos para o December Cycle
 
 Briefing do People Lead para Workday, calibração da prática e feedback de novembro. Preencher os buracos com ela na 1:1 #2.
 
@@ -59,7 +59,7 @@ Ser honesta: AI-900 não saiu. Explicar causa (idioma + formato da prova + pouca
 - [ ] Self-review submetido
 - [ ] Revisores convidados / conversados
 - [ ] Compliance zerado
-- [ ] Mini CV: Pix, .NET, sustentação Bradesco, Women In Tech
+- [ ] Mini CV: Pix, .NET, sustentação MAPFRE, Women In Tech
 - [ ] Skill Copilot (secundário se ainda usa pouco; primário se já usa na análise)
 - [ ] goFluent em dia, se ainda não fez o teste recente
 
@@ -68,7 +68,7 @@ Ser honesta: AI-900 não saiu. Explicar causa (idioma + formato da prova + pouca
 **“Por que não tirou a AI-900?”**  
 Estudou ao longo do ano, tentou múltiplas vezes, prova migrou para inglês. Já possui SC-900 e DP-900. Combinamos trilha realista (inglês + certificação mais próxima do gap de Git / retomada Azure) e nova janela para AI no FY27.
 
-**“O que ela entrega no Bradesco?”**  
+**“O que ela entrega na MAPFRE?”**  
 *(preencher com os 3 casos — hoje está vazio; é o maior furo)*
 
 **“Ela quer sair do projeto?”**  

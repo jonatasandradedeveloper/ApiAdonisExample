@@ -1,4 +1,4 @@
-# Andressa — ações
+# Andressa Silva — ações
 
 Lista operacional. Marque, datar, mover para o histórico quando concluir.
 
@@ -12,10 +12,10 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 - [ ] Confirmar compliance no que o PL consegue ver
 - [ ] Anotar no dashboard o status depois da #2
 
-### Andressa
+### Andressa Silva
 
 - [ ] Fechar prioridades no Workday (incluindo narrativa de projeto)
-- [ ] Escrever self-review com 3 evidências de Bradesco
+- [ ] Escrever self-review com 3 evidências da MAPFRE
 - [ ] Café / conversa com Rafael Martins: “minha leitura vs. a sua”
 - [ ] Feedback escrito da colega Avanade
 - [ ] Evidência Women In Tech (números + o que fez)

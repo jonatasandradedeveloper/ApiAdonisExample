@@ -1,12 +1,12 @@
-# Andressa — plano de carreira
+# Andressa Silva — plano de carreira
 
 Cargo atual: **Analyst, Back-End Developer**.  
-Projeto atual: **Bradesco / sustentação legado**.  
+Projeto atual: **MAPFRE / sustentação legado**.  
 Horizonte: sair da estagnação técnica sem fingir que a alocação mudou amanhã.
 
 ## Norte
 
-Andressa já provou que performa em backend moderno (Pix, microsserviços, .NET Core). O plano não é “ensiná-la a ser dev”. É **recuperar trajetória de Analyst que o mercado interno reconhece**: Git, API, cloud, Copilot, inglês suficiente para prova e para projeto, evidência no Workday.
+Andressa Silva já provou que performa em backend moderno (Pix, microsserviços, .NET Core). O plano não é “ensiná-la a ser dev”. É **recuperar trajetória de Analyst que o mercado interno reconhece**: Git, API, cloud, Copilot, inglês suficiente para prova e para projeto, evidência no Workday.
 
 Próximo nível (quando a prática considerar): consolidar Analyst com alocação mais nobre → Consultant. **Não forçar promoção no FY26** se a evidência do ano estiver concentrada em sustentação + certificação não concluída. O jogo honesto deste ciclo é **avaliação justa + preparo de mobilidade para o FY27**.
 
@@ -32,7 +32,7 @@ Objetivo: ela não chegar em novembro sem história.
 | Inglês | Rotina curta e constante (goFluent + prova de certificação em inglês). Meta: aguentar questão em ~90s |
 | Certificação | Badge da aposta combinada (GH-900 é a mais coerente se AI-900 continuar bloqueada) |
 | Técnica | Git no dia a dia (mesmo que em repo pessoal / kata), API, .NET atual — para entrevista interna de projeto |
-| Alocação | Conversas concretas de mobilidade se o Bradesco continuar 100% legado |
+| Alocação | Conversas concretas de mobilidade se a MAPFRE continuar 100% legado |
 
 ### 12 meses (FY27) — voltar para trabalho de construção
 

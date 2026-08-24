@@ -4,10 +4,17 @@ Pergunta do People Lead: **as prioridades que elas definiram fazem sentido?**
 
 Resposta curta:
 
-- **Andressa:** sentido de carreira, **não de ciclo**. Faltou o projeto. A meta principal (AI-900) está bloqueada.
-- **Ana:** sentido de direção, **não de portfólio**. Sete itens escondem o que ela já faz de melhor (app + Copilot). Inglês já foi entregue. Swift é FY27.
+- **Andressa Silva (MAPFRE):** sentido de carreira, **não de ciclo**. Faltou o projeto. A meta principal (AI-900) está bloqueada.
+- **Ana Karina (BANCO BRADESCO):** sentido de direção, **não de portfólio**. Sete itens escondem o que ela já faz de melhor (app + Copilot). Inglês já foi entregue. Swift é FY27.
 
 As duas erram por motivos opostos. O trabalho do PL é o mesmo: **chegar em setembro com 3 frentes defensáveis no Workday**, alinhadas à CALL do December Cycle.
+
+## Clientes (não misturar)
+
+| Pessoa | Cliente correto | Cargo |
+|---|---|---|
+| Andressa Silva | **MAPFRE** | Analyst, Back-End Developer |
+| Ana Karina | **BANCO BRADESCO** | Associate, Mobile & Device Dev |
 
 ## O que a empresa está pedindo agora (filtro)
 
@@ -20,22 +27,22 @@ Da CALL geral, uma prioridade “boa” neste momento precisa de pelo menos um d
 
 Certificação, voluntariado, inglês e stack nova são válidos. Sozinhos, não carregam calibração.
 
-## Andressa — 2 prioridades
+## Andressa Silva — 2 prioridades (MAPFRE)
 
 | Prioridade | Faz sentido? | Por quê | Ajuste |
 |---|---|---|---|
 | AI-900 | Empresa: sim. Ciclo: **não como está** | Tentou 3–4 vezes; prova em inglês; projeto atual não pratica o conteúdo; já tem SC-900 e DP-900 fora da lista | Fechar como trilha + bloqueio de idioma; não como “vou tirar até setembro”. Escada: GH-900 → inglês → AZ-900 → AI |
 | Women In Tech (onboarding) | **Sim, complementar** | Cultura e protagonismo fora do legado | Pedir número e história. Não deixar virar o capítulo 1 |
-| *(ausente)* Performance no Bradesco | **Buraco** | Analyst é avaliada pelo cliente, não pelo voluntariado | Incluir sustentação com 3 evidências e feedback do Rafael Martins |
+| *(ausente)* Performance na MAPFRE | **Buraco** | Analyst é avaliada pelo cliente, não pelo voluntariado | Incluir sustentação com 3 evidências e feedback do Rafael Martins |
 
 **Veredito:** não reprovar as prioridades dela na 1:1. **Completar.** Sem o projeto no papel, você não tem com o que representá-la.
 
-## Ana — 7 prioridades
+## Ana Karina — 7 prioridades (BANCO BRADESCO)
 
 | Prioridade | Faz sentido? | Por quê | Ajuste |
 |---|---|---|---|
 | Certificação em IA | Direção sim; formulação não | Ela adiou a prova com razão (faculdade + cliente) e já aplica IA no time | Fechar como capacitação **aplicada**; badge no FY27 |
-| Adoção de Copilot | **Sim — a melhor das 9 prioridades somadas das duas** | CALL, skill novo, projeto agenteico, evidência real | Endurecer: case + efeito |
+| Adoção de Copilot | **Sim — a melhor das nove prioridades somadas das duas** | CALL, skill novo, projeto agenteico, evidência real | Endurecer: case + efeito |
 | Ações de aprendizado | Fraca sozinha | Guarda-chuva das outras | Fundir |
 | Voluntariado | Só com fato | 1:1 não trouxe evidência | Manter ou ser honesta |
 | Desenvolvimento humano/social | Redundante | É o voluntariado com outro título | Fundir com o item acima |
@@ -47,13 +54,13 @@ Certificação, voluntariado, inglês e stack nova são válidos. Sozinhos, não
 ## Comparativo
 
 ```text
-Andressa  =  poucas metas, e as metas não são o trabalho
-Ana       =  muitas metas, e as metas tapam o trabalho
+Andressa Silva (MAPFRE)     =  poucas metas, e as metas não são o trabalho
+Ana Karina (Bradesco)       =  muitas metas, e as metas tapam o trabalho
 ```
 
-| Lente da CALL | Andressa | Ana |
+| Lente da CALL | Andressa Silva (MAPFRE) | Ana Karina (Bradesco) |
 |---|---|---|
-| Fechar prioridades com autoavaliação honesta | Precisa escrever o que o Bradesco consome dela | Precisa admitir o que não vai sair (Swift, badge de IA, talvez voluntariado) |
+| Fechar prioridades com autoavaliação honesta | Precisa escrever o que a MAPFRE consome dela | Precisa admitir o que não vai sair (Swift, badge de IA, talvez voluntariado) |
 | Ser advogada de si no Workday | Risco: só aparece certificação não tirada | Risco: aparece ensaio de carreira, some o app |
 | Copilot / IA | Discurso e estudo; pouca prática no legado | Prática no time; certificação em segundo |
 | Mini CV / staffing | Precisa gritar Pix + .NET moderno, senão fica presa no suporte | Precisa gritar Copilot primário + C1+ + Kotlin |

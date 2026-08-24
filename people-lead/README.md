@@ -1,6 +1,6 @@
 # Kit People Lead — acompanhamento de carreira
 
-Documentação viva para o People Lead acompanhar **Andressa** e **Ana**.
+Documentação viva para o People Lead acompanhar **Andressa Silva (MAPFRE)** e **Ana Karina (BANCO BRADESCO)**.
 
 Tudo aqui é editável. A cada 1:1, atualize o histórico, o status das prioridades e o plano. O objetivo não é um relatório estático: é um dossiê que cresce com o ciclo.
 
@@ -17,8 +17,8 @@ Tudo aqui é editável. A cada 1:1, atualize o histórico, o status das priorida
 
 | Arquivo | Conteúdo |
 |---|---|
-| [`word/Andressa-Historico-Completo-People-Lead.docx`](word/Andressa-Historico-Completo-People-Lead.docx) | Capa, sumário, ficha, 1:1s, prioridades, carreira, ciclo, ações, anexos |
-| [`word/Ana-Historico-Completo-People-Lead.docx`](word/Ana-Historico-Completo-People-Lead.docx) | Idem para a Ana |
+| [`word/Andressa-Silva-Historico-Completo-People-Lead.docx`](word/Andressa-Silva-Historico-Completo-People-Lead.docx) | Capa, sumário, ficha, 1:1s, prioridades, carreira, ciclo, ações, anexos — cliente **MAPFRE** |
+| [`word/Ana-Karina-Historico-Completo-People-Lead.docx`](word/Ana-Karina-Historico-Completo-People-Lead.docx) | Idem para Ana Karina — cliente **BANCO BRADESCO** |
 
 Regenerar os completos:
 

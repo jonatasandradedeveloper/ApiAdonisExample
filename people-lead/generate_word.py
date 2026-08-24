@@ -322,7 +322,7 @@ def main() -> None:
     for src, dest, sub in singles:
         convert_file(src, dest, subtitle=sub)
 
-    for person, label in [("andressa", "Andressa"), ("ana", "Ana")]:
+    for person, label in [("andressa", "Andressa Silva"), ("ana", "Ana Karina")]:
         person_dir = ROOT / person
         person_out = OUT / person
         for md in sorted(person_dir.glob("*.md")):
@@ -333,7 +333,7 @@ def main() -> None:
             )
         build_dossier(
             person_dir,
-            OUT / f"DOSSIE-{label.upper()}.docx",
+            OUT / f"DOSSIE-{label.upper().replace(' ', '-')}.docx",
             label,
         )
 

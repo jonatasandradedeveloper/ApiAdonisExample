@@ -11,6 +11,26 @@ Tudo aqui é editável. A cada 1:1, atualize o histórico, o status das priorida
 3. Depois da 1:1, atualize status das prioridades, plano de carreira e o [dashboard](00-dashboard.md).
 4. No fechamento do FY26, use `04-insumos-ciclo.md` como briefing para Workday, calibração e conversa com o líder da prática.
 
+## Versão Word (editável no Microsoft Word / Google Docs)
+
+Os mesmos conteúdos estão em **`.docx`** em [`word/`](word/):
+
+| Arquivo | Uso |
+|---|---|
+| `word/DOSSIE-ANDRESSA.docx` | Dossiê completo da Andressa (recomendado para editar no dia a dia) |
+| `word/DOSSIE-ANA.docx` | Dossiê completo da Ana |
+| `word/00-dashboard.docx` | Visão das duas |
+| `word/01-ciclo-dezembro-orientacao.docx` | Orientação do December Cycle |
+| `word/02-parecer-prioridades.docx` | Parecer das prioridades |
+| `word/andressa/*.docx` / `word/ana/*.docx` | Capítulos soltos |
+| `word/_templates/*.docx` | Templates de 1:1, feedback e fechamento |
+
+Para regenerar os Word a partir dos Markdown:
+
+```bash
+cd people-lead && python3 generate_word.py
+```
+
 ## Estrutura
 
 ```text
@@ -19,6 +39,8 @@ people-lead/
   00-dashboard.md                          ← visão mensal das duas pessoas
   01-ciclo-dezembro-orientacao.md          ← CALL geral → papel de cada um
   02-parecer-prioridades.md                ← análise: as prioridades fazem sentido?
+  generate_word.py                         ← gera os .docx
+  word/                                    ← arquivos Word editáveis
   _templates/                              ← copiar para novas 1:1s ou novas mentoradas
   andressa/
   ana/

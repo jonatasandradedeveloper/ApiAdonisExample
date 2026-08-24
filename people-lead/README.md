@@ -20,6 +20,19 @@ Tudo aqui é editável. A cada 1:1, atualize o histórico, o status das priorida
 | [`word/Andressa-Silva-Historico-Completo-People-Lead.docx`](word/Andressa-Silva-Historico-Completo-People-Lead.docx) | Capa, sumário, ficha, 1:1s, prioridades, carreira, ciclo, ações, anexos — cliente **MAPFRE** |
 | [`word/Ana-Karina-Historico-Completo-People-Lead.docx`](word/Ana-Karina-Historico-Completo-People-Lead.docx) | Idem para Ana Karina — cliente **BANCO BRADESCO** |
 
+### Planejamento separado (carreira × empresa)
+
+| Arquivo | Conteúdo |
+|---|---|
+| [`word/Andressa-Silva-Planejamento-Carreira-e-Empresa.docx`](word/Andressa-Silva-Planejamento-Carreira-e-Empresa.docx) | O que a empresa precisa × plano de carreira da Andressa (**MAPFRE**) |
+| [`word/Ana-Karina-Planejamento-Carreira-e-Empresa.docx`](word/Ana-Karina-Planejamento-Carreira-e-Empresa.docx) | O que a empresa precisa × plano de carreira da Ana (**BANCO BRADESCO**) |
+
+Fontes: `andressa/06-planejamento-carreira-empresa.md` e `ana/06-planejamento-carreira-empresa.md`.
+
+```bash
+cd people-lead && python3 generate_planejamento_docs.py
+```
+
 Regenerar os completos:
 
 ```bash

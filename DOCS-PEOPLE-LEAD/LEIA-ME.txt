@@ -1,0 +1,16 @@
+PASTA PRINCIPAL DOS DOCUMENTOS WORD — People Lead
+
+Andressa Silva (MAPFRE)
+  01-Resumo-Call.docx
+  02-Planejamento-Carreira-e-Empresa.docx
+  03-Historico-Completo.docx
+
+Ana Karina (BANCO BRADESCO)
+  01-Resumo-Call.docx
+  02-Planejamento-Carreira-e-Empresa.docx
+  03-Historico-Completo.docx
+
+Branch no GitHub: cursor/people-lead-historico-carreira-7fba
+PR: https://github.com/jonatasandradedeveloper/ApiAdonisExample/pull/2
+
+Se estiver no master local, troque para o branch acima ou baixe pelo PR.

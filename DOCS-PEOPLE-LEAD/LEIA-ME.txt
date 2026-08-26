@@ -1,16 +1,20 @@
 PASTA PRINCIPAL DOS DOCUMENTOS WORD — People Lead
 
+⚠️ URGENTE até 28/08 (sexta): autoavaliação ABCD Reflections no Workday
+  00-URGENTE-Workday-prazo-28-agosto.docx
+  Guia-Workday-Prioridades-FY26.pdf
+
 Andressa Silva (MAPFRE)
   01-Resumo-Call.docx
   02-Planejamento-Carreira-e-Empresa.docx
   03-Historico-Completo.docx
+  04-Workday-Prioridades-e-ABCD.docx   ← textos prontos para colar
 
 Ana Karina (BANCO BRADESCO)
   01-Resumo-Call.docx
   02-Planejamento-Carreira-e-Empresa.docx
   03-Historico-Completo.docx
+  04-Workday-Prioridades-e-ABCD.docx   ← textos prontos para colar
 
-Branch no GitHub: cursor/people-lead-historico-carreira-7fba
+Branch: cursor/people-lead-historico-carreira-7fba
 PR: https://github.com/jonatasandradedeveloper/ApiAdonisExample/pull/2
-
-Se estiver no master local, troque para o branch acima ou baixe pelo PR.

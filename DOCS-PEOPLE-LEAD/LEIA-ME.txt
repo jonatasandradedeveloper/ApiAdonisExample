@@ -8,13 +8,18 @@ Andressa Silva (MAPFRE)
   01-Resumo-Call.docx
   02-Planejamento-Carreira-e-Empresa.docx
   03-Historico-Completo.docx
-  04-Workday-Prioridades-e-ABCD.docx   ← textos prontos para colar
+  04-Workday-Prioridades-e-ABCD.docx
+  05-Autorreflexao-passo-a-passo.docx   ← PASSO A PASSO + textos para colar
 
 Ana Karina (BANCO BRADESCO)
   01-Resumo-Call.docx
   02-Planejamento-Carreira-e-Empresa.docx
   03-Historico-Completo.docx
-  04-Workday-Prioridades-e-ABCD.docx   ← textos prontos para colar
+  04-Workday-Prioridades-e-ABCD.docx
+  05-Autorreflexao-passo-a-passo.docx   ← PASSO A PASSO + textos para colar
+
+Jonatas (RD / sua reflexão)
+  Jonatas/01-ABCD-Reflexoes-Prontas.docx
 
 Branch: cursor/people-lead-historico-carreira-7fba
 PR: https://github.com/jonatasandradedeveloper/ApiAdonisExample/pull/2

@@ -59,3 +59,13 @@ Primeira conversa após a troca de CA: Ana está **motivada no Bradesco**, já u
 - Risco: **7 prioridades** diluem o que já é forte.
 - Este FY: consolidar Associate excelente; Analyst/arquitetura/Swift no FY27.
 - Próxima call deve **recortar prioridades**, pedir case de Copilot e preencher o quadro trimestre/semestre/ano.
+
+## Ajuda para preencher a Autorreflexão (ABCD) — até 28/08
+
+Doc pronto com passo a passo na tela + textos para colar + Atualidade ≤150 caracteres:
+
+- Markdown: `people-lead/ana/09-autorreflexao-passo-a-passo.md`
+- Word: `DOCS-PEOPLE-LEAD/Ana-Karina/05-Autorreflexao-passo-a-passo.docx`
+
+Resumo do caminho: Priorities Homepage → **Edit >** → **Submeta e Refleta** → colar reflexão → slider → Atualidade (máx. 150) → **Enviar**.  
+Agrupe as 7 metas em 4 categorias antes de refletir.

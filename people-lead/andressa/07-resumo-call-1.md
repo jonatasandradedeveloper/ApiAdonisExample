@@ -58,3 +58,12 @@ Primeira conversa após a troca de CA: Andressa está engajada com o People Lead
 - Precisa de **evidência da MAPFRE** no Workday.
 - Mobilidade: escutar, documentar, **não prometer** saída na próxima call.
 - Próxima call deve fechar prioridades, autoavaliação e escada realista de certificação.
+
+## Ajuda para preencher a Autorreflexão (ABCD) — até 28/08
+
+Doc pronto com passo a passo na tela + textos para colar + Atualidade ≤150 caracteres:
+
+- Markdown: `people-lead/andressa/09-autorreflexao-passo-a-passo.md`
+- Word: `DOCS-PEOPLE-LEAD/Andressa-Silva/05-Autorreflexao-passo-a-passo.docx`
+
+Resumo do caminho: Priorities Homepage → **Edit >** → **Submeta e Refleta** → colar reflexão → slider → Atualidade (máx. 150) → **Enviar**.

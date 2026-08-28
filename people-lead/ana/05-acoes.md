@@ -12,7 +12,7 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 - [ ] Falar com **Jessica** para feedback no Workday
 - [ ] Pegar e-mail da Paula (CA anterior), se ainda não chegou
 - [ ] Confirmar se Ana submeteu autorreflexão ABCD (28/08)
-- [ ] **Input ABCD Form no Workday — até 11/09/2026**
+- [ ] **Input ABCD Form no Workday — até 11/09/2026** — usar `12-abcd-form-people-lead-rascunho.md`
 - [ ] Revisar insumos (`04-insumos-ciclo.md`) antes do input PL
 - [ ] Combinar expectativa de cargo (consolidar vs. Analyst) — **pauta 1:1 #3**
 - [ ] Agendar 1:1 #3 com quadro trimestre / semestre / ano

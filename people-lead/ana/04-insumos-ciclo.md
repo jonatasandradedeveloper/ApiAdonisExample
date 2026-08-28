@@ -65,7 +65,7 @@ Só escrever voluntariado / impacto social se houver fato. Senão, uma linha: �
 
 - [ ] Recortar / fechar as 7 prioridades com texto honesto
 - [ ] Self-review submetido (profissional — prazo 28/08)
-- [ ] **Input PL no ABCD Form — até 11/09**
+- [ ] **Input PL no ABCD Form — até 11/09** — rascunho: `12-abcd-form-people-lead-rascunho.md`
 - [ ] Revisores conversados (Jessica + Rafael Coloda)
 - [ ] Compliance zerado
 - [ ] Mini CV: Kotlin, Android, app, Copilot **primário**, inglês C1+

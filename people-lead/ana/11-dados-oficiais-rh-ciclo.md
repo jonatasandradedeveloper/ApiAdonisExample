@@ -72,5 +72,6 @@ Usar para input no **ABCD Form** (Workday) e contatos em caso de dúvida.
 - [ ] Feedback de revisores (Jessica, Rafael Coloda) — coletado ou solicitado
 - [ ] Revisar `04-insumos-ciclo.md` com evidências (homologação, agentes IA, AZ-900)
 - [ ] Preencher **ABCD Form** no Workday com base na autoavaliação + 1:1s + feedback projeto
+- [ ] Rascunho pronto: `12-abcd-form-people-lead-rascunho.md` / `08-ABCD-Form-People-Lead-Rascunho.docx`
 - [ ] Se faltar dado de performance: contatar **rafael.coloda@avanade.com**
 - [ ] Guardar cópia do que foi inputado (Talent Discussions podem ajustar depois)

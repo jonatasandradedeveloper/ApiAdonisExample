@@ -1,5 +1,7 @@
 # Resumo da call — Ana Karina (#2)
 
+> **Uso interno People Lead** — histórico da conversa. Não enviado à Ana.
+
 **1:1 #2 · 28/08/2026**  
 People Lead: Jônatas · Cliente: **BANCO BRADESCO** · Cargo: Associate, Mobile & Device Dev
 

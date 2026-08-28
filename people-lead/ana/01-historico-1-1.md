@@ -1,5 +1,7 @@
 # Ana Karina — histórico de 1:1s
 
+> **Uso interno People Lead** — registro das conversas. Não enviado à Ana.
+
 Arquivo **append-only**: a conversa nova entra no topo. Não reescreva o passado; se algo mudou, registre na 1:1 nova.
 
 Cadência combinada: **1x por mês**, com planejamento de trimestre / semestre / ano (rito que ela tinha com a Paula).

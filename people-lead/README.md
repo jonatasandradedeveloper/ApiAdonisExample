@@ -18,7 +18,8 @@ Tudo aqui é editável. A cada 1:1, atualize o histórico, o status das priorida
 | Arquivo | Conteúdo |
 |---|---|
 | [`word/Andressa-Silva-Historico-Completo-People-Lead.docx`](word/Andressa-Silva-Historico-Completo-People-Lead.docx) | Capa, sumário, ficha, 1:1s, prioridades, carreira, ciclo, ações, anexos — cliente **MAPFRE** |
-| [`word/Ana-Karina-Historico-Completo-People-Lead.docx`](word/Ana-Karina-Historico-Completo-People-Lead.docx) | Idem para Ana Karina — cliente **BANCO BRADESCO** |
+| [`word/Ana-Karina-Historico-Completo-People-Lead.docx`](word/Ana-Karina-Historico-Completo-People-Lead.docx) | Dossiê base (ficha, 1:1s, prioridades, carreira, ciclo, ações) — **BANCO BRADESCO** |
+| [`word/Ana-Karina-Documento-Unico-People-Lead.docx`](word/Ana-Karina-Documento-Unico-People-Lead.docx) | **Documento único Ana** — tudo num arquivo (calls, Workday, ABCD PL, RH, etc.) |
 
 ### Planejamento separado (carreira × empresa)
 

@@ -12,13 +12,14 @@ Datas ainda serão precisadas pelo Talent. Tratar os marcos abaixo como janela, 
 |---|---|---|
 | Final de julho / início de agosto | Prework | Projetos preparam calibração das avaliações e última alocação |
 | Início de agosto | Checkpoint People Leads | Agenda e regras das próximas etapas |
-| Início / meados de setembro | Avaliação no sistema | People Leads imputam avaliações no Workday |
+| Início / meados de setembro | Avaliação no sistema | People Leads imputam avaliações no Workday (**prazo máximo: 11/09** — confirmado Talent para Ana Karina) |
+| Após 11/09 | Talent Discussions | Practice Lead + VPs discutem inputs; podem haver **ajustes** |
 | Meados de setembro | Calibração das práticas | Talent Leads marcam quem está pronto para o próximo nível e fecham avaliações de todo mundo |
 | Outubro | Rewards | Distribuição de % de promoção, mérito (se houver) e PPR |
 | Início de novembro | Divulgação | Resultados para os profissionais; PLs marcam reunião de feedback |
 | Início / meados de dezembro | Efetivação | Promoções, méritos e PPR entram em vigor |
 
-**Hoje (24/08/2026):** estamos entre o prework dos projetos e a janela de setembro. É o momento de fechar prioridades, autoavaliação e conversa PL ↔ profissional.
+**Hoje (28/08/2026):** prazo da autorreflexão do profissional (28/08). Input do People Lead no ABCD Form até **11/09**. Talent Discussions em seguida.
 
 ## Papel de cada um
 

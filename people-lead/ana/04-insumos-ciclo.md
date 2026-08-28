@@ -2,11 +2,14 @@
 
 Briefing do People Lead para Workday, calibração da prática e feedback de novembro.
 
+> **Prazo input PL (ABCD Form): até 11/09/2026.** Depois: Talent Discussions (Practice Lead + VPs) — ajustes possíveis.  
+> Dados oficiais RH: `11-dados-oficiais-rh-ciclo.md` · Gestor projeto: **Rafael Coloda** (rafael.coloda@avanade.com)
+
 ## Posição sugerida neste ciclo
 
 | Pergunta da calibração | Leitura atual (24/08) | Confirmar em setembro |
 |---|---|---|
-| Pronta para promoção (Associate → Analyst)? | **Não como tese principal deste FY**, salvo evidência excepcional do projeto | Tempo de casa ~1 ano + feedback do Rafael |
+| Pronta para promoção (Associate → Analyst)? | **Não como tese principal deste FY**, salvo evidência excepcional do projeto | Adm. 01/04/2026 (~5 meses) + feedback **Rafael Coloda** |
 | Mérito / destaque de Associate? | **Sim, se Copilot + entrega aparecerem no Workday** | Homologação + agentes IA + feedback Jessica |
 | Mensagem de feedback | “Você priorizou o cliente com razão. O ciclo precisa enxergar isso. Inglês C1+ já é resultado. IA e Swift continuam no plano, com menos itens ao mesmo tempo.” | |
 
@@ -51,7 +54,7 @@ Só escrever voluntariado / impacto social se houver fato. Senão, uma linha: �
 
 | Quem | Por quê | Status |
 |---|---|---|
-| Rafael (gestor do projeto) | Performance no app / homologação | Ana agenda café de percepção |
+| Rafael Coloda (gestor do projeto) | Performance no app / homologação | rafael.coloda@avanade.com — Ana agenda café de percepção |
 | **Jessica** (liderança técnica Avanade) | Proximidade técnica; validação Copilot/agentes | Ana já pediu antes; reforçar no Workday; PL alinha |
 | Par Android e par iOS | Colaboração e prompt compartilhado | Ana pede feedback |
 | João / IADrops (Bradesco) | Direcionamento de IA | Citado na reflexão |
@@ -61,11 +64,13 @@ Só escrever voluntariado / impacto social se houver fato. Senão, uma linha: �
 ## Checklist Workday / empresa
 
 - [ ] Recortar / fechar as 7 prioridades com texto honesto
-- [ ] Self-review submetido
-- [ ] Revisores conversados
+- [ ] Self-review submetido (profissional — prazo 28/08)
+- [ ] **Input PL no ABCD Form — até 11/09**
+- [ ] Revisores conversados (Jessica + Rafael Coloda)
 - [ ] Compliance zerado
 - [ ] Mini CV: Kotlin, Android, app, Copilot **primário**, inglês C1+
 - [ ] goFluent já demonstra C1+ — garantir que está visível para staffing
+- [ ] Se faltar dado de projeto: contatar **rafael.coloda@avanade.com** ou HRBP (Cristiane Gennari / Cezar Pontalti)
 
 ## Perguntas que a prática pode fazer — e a resposta pronta
 

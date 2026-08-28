@@ -11,7 +11,7 @@ Use este texto como **base para colar** no Workday. Ajuste entregas reais do app
 1. Workday → persona → **View Profile** → **Performance** → **Priorities HomePage**.
 2. Você tinha várias prioridades — no FY26 o Workday pede **1 por categoria** (4 no total). **Agrupe** as antigas nestas 4.
 3. Depois: **Iniciar a Reflexão** / ABCD Reflections em cada uma e **Enviar** até **28/08**.
-4. Revisores (até 2): Enterprise ID do **Rafael** (gestor) + um par Android ou iOS.
+4. Revisores (até 2): Enterprise ID do **Rafael Coloda** (rafael.coloda@avanade.com) + Jessica ou par Android/iOS.
 5. Conta do cliente: **BANCO BRADESCO** (ou o nome da conta no Workday).
 
 ### Como mapear suas 7 prioridades antigas → 4 categorias
@@ -51,7 +51,7 @@ O que deu certo: atuei no desenvolvimento nativo Android (Kotlin) do novo app do
 
 O que poderia ser melhor: registrar com mais clareza as entregas principais (features/PRs/impactos) para facilitar a avaliação; alinhar periodicamente com o líder a percepção de performance; e documentar padrões que eu reutilizo no time.
 
-Próximos passos: listar 2–3 entregas-chave do período com evidência; alinhar feedback com o gestor Rafael; manter ritmo de entrega com qualidade.
+Próximos passos: listar 2–3 entregas-chave do período com evidência; alinhar feedback com **Rafael Coloda**; manter ritmo de entrega com qualidade.
 
 ### Impacto sugerido
 **7–8** (ajustar conforme suas entregas reais)

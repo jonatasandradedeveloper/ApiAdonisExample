@@ -15,7 +15,7 @@ Associate (agora)
       → arquitetura mobile
 ```
 
-O PL não promete Analyst no FY26. Associate com ~1 ano, faculdade presencial e primeiro projeto forte: o movimento inteligente é **fechar este FY como Associate excelente** e entrar no FY27 com dossiê de promoção.
+O PL não promete Analyst no FY26. Associate com admissão **01/04/2026** (~5 meses), faculdade presencial e primeiro projeto forte: o movimento inteligente é **fechar este FY como Associate excelente** e entrar no FY27 com dossiê de promoção.
 
 Com a Paula ela planejava trimestre / semestre / ano. Recriar isso abaixo e atualizar a cada 1:1.
 

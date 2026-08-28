@@ -60,7 +60,8 @@ Call de **fechamento do Workday**: projeto em **homologação** (marco de cresci
 - Call certa para o momento: **urgente primeiro** (Workday), carreira estruturada na #3.
 - Homologação + agentes de IA elevam a narrativa de **entrega no cliente** e **Habilitação de IA**.
 - Swift tratado com maturidade — sem punição no FY26; plano FY27 mantido.
-- Pendências para #3: nome do app, e-mail Rafael, quadro T/S/A, expectativa Analyst vs Associate.
+- Pendências para #3: nome do app, quadro T/S/A, expectativa Analyst vs Associate.
+- **Confirmado RH 28/08:** gestor **Rafael Coloda** (rafael.coloda@avanade.com); input PL até **11/09**.
 
 ## Ajuda para preencher a Autorreflexão (ABCD)
 
@@ -70,3 +71,5 @@ Doc com passo a passo + textos atualizados (homologação + agentes):
 - Word: `DOCS-PEOPLE-LEAD/Ana-Karina/05-Autorreflexao-passo-a-passo.docx`
 
 Resumo: Priorities Homepage → **Edit >** → **Submeta e Refleta** → colar reflexão → slider → Atualidade (máx. **150** caracteres) → **Enviar**.
+
+**Seu prazo (People Lead):** input **ABCD Form** até **11/09** — `11-dados-oficiais-rh-ciclo.md` / `07-Dados-Oficiais-RH-Ciclo.docx`.

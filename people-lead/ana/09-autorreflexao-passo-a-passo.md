@@ -52,7 +52,7 @@ O que deu certo: atuei no desenvolvimento nativo Android, evoluí tecnicamente j
 
 O que poderia ser melhor: registrar com mais clareza as entregas principais (features/PRs/impactos); alinhar periodicamente com o líder a percepção de performance.
 
-Próximos passos: listar 2–3 entregas-chave com evidência; alinhar feedback com o gestor Rafael; manter ritmo na homologação/produção.
+Próximos passos: listar 2–3 entregas-chave com evidência; alinhar feedback com **Rafael Coloda** (rafael.coloda@avanade.com); manter ritmo na homologação/produção.
 
 ### Atualidade (≤150)
 

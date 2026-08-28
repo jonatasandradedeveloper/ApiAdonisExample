@@ -2,7 +2,7 @@
 
 Atualizar depois de cada 1:1. Este é o arquivo de segunda-feira: duas pessoas, um relance.
 
-Última atualização: **2026-08-28** (1:1 #2 Ana Karina; clientes: Andressa Silva → MAPFRE; Ana Karina → BANCO BRADESCO).
+Última atualização: **2026-08-28** (RH Ana: Rafael Coloda; input PL até 11/09).
 
 ## Termômetro do ciclo FY26
 
@@ -11,8 +11,9 @@ Atualizar depois de cada 1:1. Este é o arquivo de segunda-feira: duas pessoas, 
 | Prework dos projetos | Em curso (CALL) |
 | 1:1 de fechamento com Andressa Silva | `[ABERTO]` — agendar |
 | 1:1 de fechamento com Ana Karina | `[FEITO]` — 28/08 (Workday + agentes IA) |
-| Self-review das duas no Workday | Ana: `[EM CURSO]` — combinado 28/08; Andressa: `[ABERTO]` |
-| Avaliação do PL no sistema (setembro) | `[ABERTO]` |
+| Self-review das duas no Workday | Ana: `[EM CURSO]` — prazo prof. 28/08; Andressa: `[ABERTO]` |
+| Input PL — ABCD Form (Ana Karina) | `[ABERTO]` — **até 11/09/2026** |
+| Avaliação do PL no sistema (setembro) | Ana: deadline **11/09**; Andressa: confirmar com Talent |
 | Calibração da prática (meados de setembro) | `[ABERTO]` |
 | Feedback novembro | `[ABERTO]` |
 
@@ -40,10 +41,10 @@ Atualizar depois de cada 1:1. Este é o arquivo de segunda-feira: duas pessoas, 
 
 ## Fila do People Lead nesta semana
 
-1. Confirmar Ana submeteu ABCD (28/08); revisar se pediu.
-2. Enviar material Copilot + docs PUG para Ana; falar com Jessica.
-3. Marcar 1:1 #3 Ana (quadro T/S/A + expectativa cargo).
-4. Marcar 1:1 de fechamento Andressa Silva (MAPFRE).
+1. **Input ABCD Form Ana — até 11/09** (usar `ana/11-dados-oficiais-rh-ciclo.md`).
+2. Confirmar Ana submeteu autorreflexão (28/08); coletar feedback Jessica + Rafael Coloda.
+3. Enviar material Copilot/PUG; agendar 1:1 #3 Ana (T/S/A).
+4. Marcar 1:1 fechamento Andressa (MAPFRE).
 5. Andressa: pedir e-mail Rafael Martins; 3 evidências sustentação.
 6. Revisar autoavaliação Andressa antes do Workday.
 

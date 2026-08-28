@@ -21,7 +21,7 @@ Fonte: CALL geral da prática (Software / AI) + December Cycle FY26.
 | Necessidade da empresa | Por que importa | O que “bom” parece |
 |---|---|---|
 | Fechar prioridades + autoavaliação no Workday | Sem texto, some na calibração | 3 frentes claras (não 7 intenções) + self-review |
-| Feedback de projeto / revisores | PL precisa de insumos | Café com Rafael + pares Android/iOS |
+| Feedback de projeto / revisores | PL precisa de insumos | Café com **Rafael Coloda** + pares Android/iOS |
 | Performance no cliente | Avaliação olha entrega | 2–3 contribuições nomeadas no app Bradesco |
 | Compliance zerado | Não negociável; pode afetar bônus | Zero pendência |
 | Mini CV atualizado | Staffing / mobilização | Kotlin, Android, app, inglês C1+, Copilot |
@@ -116,7 +116,7 @@ Associate (agora)
 | Semana | Ana Karina | People Lead |
 |---|---|---|
 | Agora | Listar 2–3 entregas do app; rascunhar case Copilot | Agendar 1:1 #2 com quadro T/S/A |
-| +1 | Recortar prioridades no Workday; café com Rafael | Revisar rascunho da autoavaliação |
+| +1 | Recortar prioridades no Workday; café com Rafael Coloda | Revisar rascunho da autoavaliação |
 | +2 | Feedback pares; mini CV + Copilot primário | Insumos para calibração |
 | Setembro | Self-review submetido | Avaliação no sistema |
 

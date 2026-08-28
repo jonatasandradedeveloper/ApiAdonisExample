@@ -62,7 +62,7 @@ Cadência combinada: **1x por mês**, com planejamento de trimestre / semestre /
 - Call focou no urgente (Workday) — correto para o prazo. Planejamento T/S/A e recorte formal de 7→3 prioridades ficaram pendentes.
 - O ouro evoluiu: não é só “usa Copilot” — são **agentes no frontend e analytics**, com validação do João/IADrops. Isso muda o impacto na calibração.
 - Homologação é marco de entrega concreto para a reflexão de Cliente.
-- Confirmar na próxima: nome do app, e-mail Rafael, status exato AI-900 no Workday.
+- Confirmar na próxima: nome do app, status exato AI-900 no Workday. **Gestor confirmado RH:** Rafael Coloda (rafael.coloda@avanade.com).
 
 ---
 

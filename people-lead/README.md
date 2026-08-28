@@ -40,6 +40,12 @@ Regenerar os completos:
 cd people-lead && python3 generate_complete_docs.py
 ```
 
+Regenerar o **documento único da Ana**:
+
+```bash
+cd people-lead && python3 generate_ana_documento_unico.py
+```
+
 ### Demais arquivos Word
 
 | Arquivo | Uso |

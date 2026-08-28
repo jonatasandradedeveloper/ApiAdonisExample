@@ -11,6 +11,7 @@ Elevar maturidade técnica em IA por capacitação formal, alinhada às jornadas
 | Campo | Conteúdo |
 |---|---|
 | Status em 24/08 | `[EM ANDAMENTO]` na prática / `[BLOQUEADO]` como badge |
+| Status em 28/08 | **AZ-900 concluída.** AI-900 — revisar cadastro no Workday. Badge formal de IA → **FY27** |
 | Alinhamento empresa | Alto |
 | Alinhamento momento dela | Ela mesma adiou: faculdade + foco no cliente |
 | Risco | Meta escrita como certificação; a evidência real é uso de Copilot no app |
@@ -22,6 +23,7 @@ Incorporar Copilot em rotinas e projetos; produtividade com IA; integrar em dese
 | Campo | Conteúdo |
 |---|---|
 | Status em 24/08 | `[EM ANDAMENTO]` — **melhor prioridade das duas mentoradas** |
+| Status em 28/08 | **Evoluiu:** agentes Copilot (analytics — criado por ela; +2 do time), IA no frontend, VS Code no cliente. IADrops/João |
 | Alinhamento empresa | Máximo (CALL, skill novo de Copilot, projetos agenteicos) |
 | Alinhamento projeto | Alto (time já testa prompt, agente de acessibilidade, token) |
 | Risco | Está vaga demais (“aumentar o nível”). Precisa de evidência |
@@ -60,6 +62,7 @@ Ampliar nativo iOS; estudo em andamento para projetos futuros.
 | Campo | Conteúdo |
 |---|---|
 | Status em 24/08 | `[ESTACIONAR]` no FY26 |
+| Status em 28/08 | **Combinado FY27** na 1:1 #2: sem MacBook da empresa; estudo básico insuficiente. Citar início na reflexão |
 | Alinhamento carreira | Alto no médio prazo |
 | Alinhamento ciclo | Baixo: ela está em Kotlin/Android; tempo de faculdade; histórico de falta de Mac |
 
@@ -126,5 +129,4 @@ Voluntariado vira evidência de cultura **se existir fato**. Se não existir, n�
 |---|---|
 | 2026-07-28 | Sete prioridades lidas / cadastradas |
 | 2026-08-24 | Parecer do PL: recortar para 3; Copilot é o ouro; inglês já entregue; Swift estaciona |
-
-> Próxima linha: recorte combinado na 1:1 #2.
+| 2026-08-28 | 1:1 #2: Workday em 4 categorias; Swift → FY27; agentes IA como evidência; AZ-900 ok; feedback Jessica |

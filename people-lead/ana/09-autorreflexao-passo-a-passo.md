@@ -46,28 +46,27 @@ Aqui está **só o caminho na tela** + textos para colar na **Autorreflexão**.
 
 ### Reflexão (colar)
 
-Durante o FY26, contribuí para o sucesso do cliente BANCO BRADESCO no desenvolvimento do app nativo (Kotlin/Android), entregando com qualidade, evoluindo na stack junto com o produto e colaborando com o time misto Android/iOS.
+Durante o FY26, contribuí para o sucesso do cliente BANCO BRADESCO no desenvolvimento do app nativo (Kotlin/Android), incluindo a transição para **homologação** — minha primeira experiência levando um projeto desse porte até homologação/produção — com qualidade, evolução na stack e colaboração com time misto Avanade/cliente.
 
-O que deu certo: atuei no desenvolvimento nativo Android, evoluí tecnicamente junto com o app e mantive alto engajamento com a qualidade do que sobe para o cliente. O crescimento diário na linguagem e no domínio do produto gerou valor contínuo para o projeto.
+O que deu certo: atuei no desenvolvimento nativo Android, evoluí tecnicamente junto com o app e mantive alto engajamento. A fase de homologação ampliou minha visão de arquitetura (incl. conversas com backend e fluxo ponta a ponta). O crescimento diário gerou valor contínuo para o projeto.
 
 O que poderia ser melhor: registrar com mais clareza as entregas principais (features/PRs/impactos); alinhar periodicamente com o líder a percepção de performance.
 
-Próximos passos: listar 2–3 entregas-chave com evidência; alinhar feedback com o gestor Rafael; manter ritmo de entrega com qualidade.
+Próximos passos: listar 2–3 entregas-chave com evidência; alinhar feedback com o gestor Rafael; manter ritmo na homologação/produção.
 
 ### Atualidade (≤150)
 
 ```
-Entregas no app Android (Kotlin) do Bradesco com qualidade e evolução contínua na stack.
+Transição do app Bradesco para homologação; entregas Android (Kotlin) com qualidade.
 ```
 
 ```
-Colaboração com time Android/iOS no cliente Bradesco em entregas do produto.
+Evolução em arquitetura mobile e integração com backend (fluxo ponta a ponta).
 ```
 
 ```
 Aprendizado aplicado de Kotlin no dia a dia, gerando valor direto no app do cliente.
 ```
-*(Troque por nomes reais de features se puder.)*
 
 ---
 
@@ -75,26 +74,26 @@ Aprendizado aplicado de Kotlin no dia a dia, gerando valor direto no app do clie
 
 ### Reflexão (colar)
 
-Durante o FY26, incorporei Copilot e práticas de IA nas rotinas de desenvolvimento e review no projeto do Bradesco, com prompts reutilizáveis (incluindo alinhamento Android/iOS), experimentos de agente (ex.: acessibilidade) e atenção a custo de token.
+Durante o FY26, incorporei Copilot e práticas de IA nas rotinas do projeto Bradesco: prompts reutilizáveis (Android/iOS), **agentes derivados do Copilot** (criei agente para analytics; time usa 3 agentes), IA aplicada ao **frontend** (telas e otimização de processos) e uso integrado ao VS Code no cliente.
 
-O que deu certo: usei Copilot de forma prática no dia a dia — prompts, iniciativa de agente para acessibilidade e otimização de token. Trabalhei para que o conhecimento fosse útil para Android e para a metade iOS do time, acelerando exploração de soluções e apoiando a qualidade das entregas.
+O que deu certo: uso prático diário de Copilot e agentes; sessão IADrops com João direcionou caminhos; resultados positivos no frontend. **AZ-900 concluída.** Treinamentos/skill Copilot em andamento.
 
-O que poderia ser melhor: transformar os experimentos em um case escrito (problema → prompt/agente → efeito); padronizar prompts com o time; avançar na certificação foundations de IA quando a faculdade permitir.
+O que poderia ser melhor: padronizar case escrito (problema → agente → efeito); certificação AI-900 formal no **FY27** (faculdade + projeto priorizados neste FY).
 
-Próximos passos: registrar 1 case de Copilot; marcar skill Copilot como primário no mini CV; manter uso aplicado no projeto.
+Próximos passos: registrar agentes e métricas na reflexão; skill Copilot primário no mini CV; feedback da Jessica no Workday.
 
 ### Atualidade (≤150)
 
 ```
-Uso frequente de Copilot em desenvolvimento e review no app Bradesco.
+Agentes Copilot no Bradesco (analytics + frontend); 3 agentes em uso no time.
 ```
 
 ```
-Prompts e experimentos de agente (ex.: acessibilidade) testados/compartilhados no time.
+IA aplicada a telas e otimização de processos no app; Copilot no VS Code.
 ```
 
 ```
-IA aplicada ao cliente; certificação formal de IA planejada para o próximo ciclo.
+AZ-900 concluída; AI-900 e certificação IA formal planejadas para FY27.
 ```
 
 ---
@@ -172,7 +171,9 @@ Contribuição de conhecimento via case de Copilot na prática (quando agenda pe
 - [ ] Atualidades ≤150 caracteres  
 - [ ] Avisar o People Lead (Jônatas) no Teams  
 
-## Ligação com a call 1 (28/07)
+## Ligação com as calls
 
-Na call falamos de app Bradesco, Copilot real, inglês C1+, Swift no radar e faculdade.  
-Na autorreflexão: **mostre app + Copilot**; celebre o C1+; não culpe Swift neste fechamento.
+**Call 1 (28/07):** app Bradesco, Copilot real, inglês C1+, Swift no radar e faculdade.  
+**Call 2 (28/08):** homologação, agentes IA, Swift→FY27, feedback Jessica, AZ-900 ok.
+
+Na autorreflexão: **mostre app + homologação + agentes**; celebre C1+ e AZ-900; Swift honesto para FY27.

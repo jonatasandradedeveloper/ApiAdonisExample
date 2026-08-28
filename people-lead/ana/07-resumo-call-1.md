@@ -60,6 +60,8 @@ Primeira conversa após a troca de CA: Ana está **motivada no Bradesco**, já u
 - Este FY: consolidar Associate excelente; Analyst/arquitetura/Swift no FY27.
 - Próxima call deve **recortar prioridades**, pedir case de Copilot e preencher o quadro trimestre/semestre/ano.
 
+→ **Atualização:** ver resumo da **1:1 #2 (28/08)** em `10-resumo-call-2.md`.
+
 ## Ajuda para preencher a Autorreflexão (ABCD) — até 28/08
 
 Doc pronto com passo a passo na tela + textos para colar + Atualidade ≤150 caracteres:

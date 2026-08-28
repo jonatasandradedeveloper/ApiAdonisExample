@@ -12,11 +12,12 @@ Andressa Silva (MAPFRE)
   05-Autorreflexao-passo-a-passo.docx   ← PASSO A PASSO + textos para colar
 
 Ana Karina (BANCO BRADESCO)
-  01-Resumo-Call.docx
+  01-Resumo-Call.docx              (call #1 — 28/07)
+  06-Resumo-Call-2.docx          (call #2 — 28/08) ← NOVO
   02-Planejamento-Carreira-e-Empresa.docx
   03-Historico-Completo.docx
   04-Workday-Prioridades-e-ABCD.docx
-  05-Autorreflexao-passo-a-passo.docx   ← PASSO A PASSO + textos para colar
+  05-Autorreflexao-passo-a-passo.docx   ← atualizado (homologação + agentes IA)
 
 Jonatas (RD / sua reflexão)
   Jonatas/01-ABCD-Reflexoes-Prontas.docx

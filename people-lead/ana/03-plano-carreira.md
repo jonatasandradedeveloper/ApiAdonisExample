@@ -23,11 +23,11 @@ Com a Paula ela planejava trimestre / semestre / ano. Recriar isso abaixo e atua
 
 | Foco | Resultado |
 |---|---|
-| December Cycle | Workday completo, 3 prioridades, self-review, revisores |
-| Entrega | 2–3 contribuições visíveis no app (ela nomeia na #2) |
-| Copilot | 1 case escrito (problema → prompt/agente → efeito no time) |
+| December Cycle | Workday ABCD (28/08); feedback Jessica; revisores |
+| Entrega | Homologação do app + 2–3 contribuições visíveis (features/PRs) |
+| Copilot / IA | Agentes (analytics, frontend) + 1 case escrito; AZ-900 registrada |
 | Mini CV | Skill Copilot **primário**; Kotlin/Android; inglês C1+ |
-| Expectativa | Alinhar com o PL: este FY é consolidação, não campanha de promoção |
+| Expectativa | Alinhar na **1:1 #3**: FY26 = consolidação Associate |
 
 ## Semestre (até ~jan/fev 2027)
 
@@ -43,7 +43,7 @@ Com a Paula ela planejava trimestre / semestre / ano. Recriar isso abaixo e atua
 | Foco | Resultado |
 |---|---|
 | Cargo | Pacote Analyst: entrega + Copilot + inglês + 1 certificação + visibilidade na prática |
-| iOS | Swift com aplicação (projeto, lab ou Mac). Sem isso, Swift continua hobby |
+| iOS | Swift com aplicação (projeto, lab ou **MacBook**). Combinado na 1:1 #2: FY27, não FY26 |
 | Arquitetura | Mentoria pontual com alguém de arquitetura mobile; leitura aplicada ao app atual |
 | Staffing | Quando o app atual estabilizar, conversar próximo desafio (iOS, arquitetura, outro cliente) — sem fugir de um projeto que ela gosta |
 

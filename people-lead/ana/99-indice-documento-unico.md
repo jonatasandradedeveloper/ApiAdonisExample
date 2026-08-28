@@ -3,7 +3,7 @@
 **Arquivo Word gerado:** `word/Ana-Karina-Documento-Unico-People-Lead.docx`  
 **Cópia de acesso rápido:** `DOCS-PEOPLE-LEAD/Ana-Karina/00-Documento-Unico.docx`
 
-Este índice descreve o conteúdo do **documento único** — tudo sobre a Ana Karina num só lugar.
+Este índice descreve o **documento único** — histórico **interno do People Lead** sobre a Ana Karina. **Não repassar à profissional.**
 
 ---
 
@@ -11,6 +11,7 @@ Este índice descreve o conteúdo do **documento único** — tudo sobre a Ana K
 
 | # | Seção | Arquivo fonte |
 |---|---|---|
+| — | **Nota uso interno** | `00-NOTA-uso-interno-pl.md` |
 | 1 | Ficha e contexto | `00-ficha.md` |
 | 2 | Resumo 1:1 #1 (28/07) | `07-resumo-call-1.md` |
 | 3 | Resumo 1:1 #2 (28/08) | `10-resumo-call-2.md` |

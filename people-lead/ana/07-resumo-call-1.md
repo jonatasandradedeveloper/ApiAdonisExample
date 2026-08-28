@@ -60,14 +60,10 @@ Primeira conversa após a troca de CA: Ana está **motivada no Bradesco**, já u
 - Este FY: consolidar Associate excelente; Analyst/arquitetura/Swift no FY27.
 - Próxima call deve **recortar prioridades**, pedir case de Copilot e preencher o quadro trimestre/semestre/ano.
 
-→ **Atualização:** ver resumo da **1:1 #2 (28/08)** em `10-resumo-call-2.md`.
+## Notas PL — Workday ABCD (orientação verbal na call #2)
 
-## Ajuda para preencher a Autorreflexão (ABCD) — até 28/08
+Na 1:1 você orientou **verbalmente** (Priorities → Submeta e Refleta). **Nenhum guia escrito foi enviado à Ana.**
 
-Doc pronto com passo a passo na tela + textos para colar + Atualidade ≤150 caracteres:
+Referência interna (cobrança ou cruzamento após ela submeter): `09-autorreflexao-passo-a-passo.md` — **não repassar como documento**.
 
-- Markdown: `people-lead/ana/09-autorreflexao-passo-a-passo.md`
-- Word: `DOCS-PEOPLE-LEAD/Ana-Karina/05-Autorreflexao-passo-a-passo.docx`
-
-Resumo do caminho: Priorities Homepage → **Edit >** → **Submeta e Refleta** → colar reflexão → slider → Atualidade (máx. 150) → **Enviar**.  
-Agrupe as 7 metas em 4 categorias antes de refletir.
+→ Ver também resumo da **1:1 #2 (28/08)** em `10-resumo-call-2.md`.

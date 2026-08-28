@@ -1,5 +1,7 @@
 # Ana Karina — ficha
 
+> **Uso interno People Lead** — histórico de acompanhamento. **Não enviado à Ana.**
+
 Atualizar o topo desta ficha sempre que mudar alocação, cargo ou sinal de risco.
 
 | Campo | Valor | Atualizado em |

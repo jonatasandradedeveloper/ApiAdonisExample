@@ -1,9 +1,10 @@
 # Ana Karina — Passo a passo da Autorreflexão (ABCD)
-**Cliente: BANCO BRADESCO · Associate, Mobile · Prazo: 28/08**  
+**Referência interna do People Lead — não enviada à Ana**  
+Cliente: BANCO BRADESCO · Associate, Mobile · Prazo profissional: 28/08  
 People Lead: Jônatas
 
-> **Status (28/08):** Ana **ainda não submeteu** a autorreflexão no Workday e **não enviou** ao People Lead.  
-> Este doc é o guia para ela preencher — textos prontos abaixo.
+> **Status (28/08):** Ana **ainda não submeteu** no Workday. Orientação na call #2 foi **verbal**; este arquivo é só **seu histórico/referência** para cobrança ou apoio pontual — não repassar como documento para ela.  
+> Textos abaixo: base se precisar **orientar de novo na call** ou cruzar quando ela submeter.
 
 ---
 
@@ -169,7 +170,7 @@ Contribuição de conhecimento via case de Copilot na prática (quando agenda pe
 - [ ] Reflexão 3 (Ótimo Lugar / C1+) enviada  
 - [ ] Reflexão 4 (Comunidade) enviada  
 - [ ] Atualidades ≤150 caracteres  
-- [ ] Avisar o People Lead (Jônatas) no Teams  
+- [ ] Ana avisou o PL quando submeter (cobrar)
 
 ## Ligação com as calls
 

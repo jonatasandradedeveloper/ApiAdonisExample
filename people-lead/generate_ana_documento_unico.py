@@ -31,6 +31,7 @@ ANA_DIR = ROOT / "ana"
 OUTPUT = OUT / "Ana-Karina-Documento-Unico-People-Lead.docx"
 
 ANA_SECTIONS = [
+    ("00-NOTA-uso-interno-pl.md", "Nota — uso interno (não enviar à Ana)"),
     ("00-ficha.md", "1. Ficha e contexto"),
     ("07-resumo-call-1.md", "2. Resumo da 1:1 #1 (28/07/2026)"),
     ("10-resumo-call-2.md", "3. Resumo da 1:1 #2 (28/08/2026)"),
@@ -104,9 +105,9 @@ def add_cover(doc: Document) -> None:
 
     note = doc.add_paragraph()
     r = note.add_run(
-        "Este arquivo reúne TUDO sobre a Ana Karina: fichas, calls, histórico, prioridades, "
-        "plano de carreira, Workday, autorreflexão dela e rascunho da sua avaliação (PL). "
-        "Documento vivo — atualizar após cada 1:1."
+        "Histórico interno do People Lead sobre Ana Karina — NÃO enviado à profissional. "
+        "Textos de Workday/ABCD são referência sua (orientação verbal na call; cobrança; input PL até 11/09). "
+        "Atualizar após cada 1:1."
     )
     set_run_font(r, size=10, italic=True, color=GRAY)
 

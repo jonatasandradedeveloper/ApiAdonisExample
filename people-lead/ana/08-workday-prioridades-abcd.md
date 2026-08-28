@@ -1,10 +1,11 @@
 # Workday — Ana Karina (BANCO BRADESCO)  
-## Prioridades FY26 + ABCD Reflections · prazo 28/08
+## Referência interna PL — prioridades FY26 + ABCD · prazo 28/08
 
-> **Status:** autorreflexão **não submetida** — Ana ainda não enviou ao People Lead.
+> **Uso interno People Lead** — não documento enviado à Ana.  
+> **Status:** autorreflexão **não submetida** (28/08).
 
 People Lead: Jônatas  
-Use este texto como **base para colar** no Workday. Ajuste entregas reais do app e Enterprise ID dos revisores antes de enviar.
+Use como **referência sua** (orientação verbal ou cruzamento depois que ela submeter). A Ana preenche no **Workday dela**.
 
 ---
 
@@ -163,15 +164,12 @@ Próximos passos: retomar uma iniciativa objetiva no próximo ciclo e, se possí
 
 ---
 
-## Checklist final (enviar até 28/08)
+## Checklist PL (acompanhar — doc interno, não enviado à Ana)
 
-- [ ] 4 prioridades (não 7) com categoria FY26
-- [ ] Bradesco preenchido nas de Cliente
-- [ ] Revisores com Enterprise ID
-- [ ] Reflexão ABCD enviada nas 4
-- [ ] Copilot com exemplo concreto na reflexão de IA
-- [ ] Inglês C1+ citado como resultado (não como meta aberta)
-- [ ] Avisar Jônatas: “Workday + ABCD enviados”
+- [ ] Ana submeteu autorreflexão ABCD — **NÃO (28/08)**
+- [ ] Orientação Workday foi **verbal** na call #2 (sem guia repassado)
+- [ ] Quando submeter: cruzar com histórico + rascunho PL (11/09)
+- [ ] Feedback Rafael Coloda / Jessica
 
 ## O que NÃO fazer
 

@@ -63,13 +63,8 @@ Call de **fechamento do Workday**: projeto em **homologação** (marco de cresci
 - Pendências para #3: nome do app, quadro T/S/A, expectativa Analyst vs Associate.
 - **Confirmado RH 28/08:** gestor **Rafael Coloda** (rafael.coloda@avanade.com); input PL até **11/09**.
 
-## Ajuda para preencher a Autorreflexão (ABCD)
+## Notas PL — Workday ABCD
 
-Doc com passo a passo + textos atualizados (homologação + agentes):
+Orientação **verbal** na call; **guia escrito não enviado** à Ana. Autorreflexão: **pendente** (28/08).
 
-- Markdown: `people-lead/ana/09-autorreflexao-passo-a-passo.md`
-- Word: `DOCS-PEOPLE-LEAD/Ana-Karina/05-Autorreflexao-passo-a-passo.docx`
-
-Resumo: Priorities Homepage → **Edit >** → **Submeta e Refleta** → colar reflexão → slider → Atualidade (máx. **150** caracteres) → **Enviar**.
-
-**Seu prazo (People Lead):** input **ABCD Form** até **11/09** — `11-dados-oficiais-rh-ciclo.md` / `07-Dados-Oficiais-RH-Ciclo.docx`.
+Referência interna: `09-autorreflexao-passo-a-passo.md` — usar só para cobrança ou cruzamento após submissão dela no Workday.

@@ -1,5 +1,5 @@
 # Ana Karina — ABCD Form do People Lead (rascunho para colar)
-**Prazo input PL: até 11/09/2026**  
+**Uso interno People Lead — não enviado à Ana · input até 11/09/2026**  
 Profissional: **Ana Karina Caetano Dos Santos Marques** · 12-Associate · Mobile & Device Dev  
 Cliente: **BANCO BRADESCO** · Gestor projeto: **Rafael Coloda** (rafael.coloda@avanade.com)  
 People Lead: **Jônatas Andrade Da Silva** · Admissão: 01/04/2026

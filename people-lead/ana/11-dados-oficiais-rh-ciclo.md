@@ -9,7 +9,7 @@ Usar para input no **ABCD Form** (Workday) e contatos em caso de dúvida.
 
 | Quem | O quê | Prazo |
 |---|---|---|
-| **Profissional** | Autorreflexão ABCD (Priorities → Submeta e Refleta) | **28/08/2026** (prazo da prática para self-review) |
+| **Profissional** | Autorreflexão ABCD | Prazo **28/08/2026** · **Status: não submetida / PL não recebeu** |
 | **People Lead** | Input na ferramenta — **ABCD Form** (avaliação do PL) | **Até 11/09/2026** |
 | **Talent** | **Talent Discussions** (Practice Lead + VPs) | Após 11/09 — inputs podem ser **ajustados** |
 
@@ -68,7 +68,7 @@ Usar para input no **ABCD Form** (Workday) e contatos em caso de dúvida.
 
 ## Checklist People Lead — até 11/09
 
-- [ ] Ana concluiu autorreflexão ABCD (4 prioridades) — confirmar
+- [ ] Ana submeteu autorreflexão ABCD — **NÃO** (cobrar)
 - [ ] Feedback de revisores (Jessica, Rafael Coloda) — coletado ou solicitado
 - [ ] Revisar `04-insumos-ciclo.md` com evidências (homologação, agentes IA, AZ-900)
 - [ ] Preencher **ABCD Form** no Workday com base na autoavaliação + 1:1s + feedback projeto

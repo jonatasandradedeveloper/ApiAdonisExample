@@ -54,7 +54,7 @@ Primeira conversa após a troca de CA: Ana está **motivada no Bradesco**, já u
 
 ## Leitura do People Lead
 
-- Está no projeto certo para o momento (energia oposta à da Andressa).
+- Está no projeto certo para o momento — energia alta no Bradesco.
 - Diferencial real: **Copilot aplicado** — precisa virar evidência no Workday.
 - Risco: **7 prioridades** diluem o que já é forte.
 - Este FY: consolidar Associate excelente; Analyst/arquitetura/Swift no FY27.

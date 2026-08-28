@@ -4,9 +4,8 @@ Profissional: **Ana Karina Caetano Dos Santos Marques** · 12-Associate · Mobil
 Cliente: **BANCO BRADESCO** · Gestor projeto: **Rafael Coloda** (rafael.coloda@avanade.com)  
 People Lead: **Jônatas Andrade Da Silva** · Admissão: 01/04/2026
 
-> **Como usar:** leia a autoavaliação da Ana + feedback de **Rafael Coloda** e **Jessica** antes de colar.  
-> Troque `[...]` por citações reais quando os feedbacks chegarem.  
-> Tom: você representa ela na prática — firme, honesto, com evidência.
+> **Como usar:** rascunho baseado nas **1:1s** (jul/ago). A **autorreflexão da Ana ainda não foi submetida/enviada** — quando chegar, cruzar e ajustar.  
+> Troque `[...]` por citações reais quando os feedbacks chegarem.
 
 ---
 
@@ -164,7 +163,9 @@ Comunicação clara e colaborativa; abertura ao feedback; responsabilidade ao co
 
 ### Alignment with Self-Reflection
 
-A autoavaliação da Ana Karina é **coerente** com o acompanhamento do People Lead nas 1:1s de 28/07 e 28/08. O PL **valida** entrega no cliente, IA aplicada e inglês C1+; **ajusta expectativa** em Swift/voluntariado para FY27 sem reduzir o mérito do conjunto.
+**Pendente:** Ana Karina **ainda não submeteu** a autorreflexão ABCD no Workday (28/08). Este rascunho do PL baseia-se nas **1:1s de 28/07 e 28/08**. Quando ela submeter, revisar alinhamento e ajustar comentários antes do input de **11/09**.
+
+Expectativa prévia: autoavaliação coerente com o acompanhamento (entrega no cliente, IA aplicada, inglês C1+; Swift/voluntariado honestos para FY27).
 
 ### Ready for Next Level? (Associate → Analyst)
 
@@ -180,7 +181,8 @@ A autoavaliação da Ana Karina é **coerente** com o acompanhamento do People L
 
 ## Antes de enviar (checklist PL)
 
-- [ ] Li a autoavaliação ABCD da Ana (4 prioridades)
+- [ ] Ana **submeteu** autorreflexão ABCD no Workday — **NÃO (28/08) — cobrar**
+- [ ] Quando submeter: ler e cruzar com este rascunho
 - [ ] Tenho feedback de **Rafael Coloda** (ou solicitei por e-mail)
 - [ ] Tenho feedback de **Jessica** (ou combinei com ela)
 - [ ] Substituí todos os `[...]` por evidências reais

@@ -19,17 +19,19 @@ Atualizar o topo desta ficha sempre que mudar alocação, cargo ou sinal de risc
 | 1:1 cadência | Mensal (combinado na call 1; com a Paula era ~2 meses) | 2026-07-28 |
 | Próxima 1:1 | **Agendar ~set/2026** — quadro trimestre/semestre/ano na pauta | 2026-08-28 |
 | Certificações | **AZ-900** concluída; **AI-900** — confirmar cadastro no Workday | 2026-08-28 |
-| Workday ABCD (profissional) | Autorreflexão — prazo **28/08**; confirmar submissão | 2026-08-28 |
+| Workday ABCD (profissional) | **Não submetida** — Ana ainda não enviou ao PL (prazo 28/08) | 2026-08-28 |
 | Input PL no Workday (ABCD Form) | **Até 11/09/2026** → depois Talent Discussions | 2026-08-28 |
 | HRBP (projeto) | Cristiane Gennari · Cezar Pontalti | 2026-08-28 |
 
-> Correção 24/08: cliente oficial é **BANCO BRADESCO**. Não confundir com Andressa Silva (MAPFRE).
+> Cliente oficial: **BANCO BRADESCO** — app nativo Kotlin/Android.
 
 ## Leitura rápida para o People Lead
 
-Ana Karina é Associate (**~5 meses** na admissão oficial 01/04/2026; ~8 meses ref. dez/2026), ainda na faculdade, com energia alta e projeto que ela gosta no **Bradesco**. O crescimento dela está **colado no cliente**: app novo, linguagem nova, Copilot, agentes, acessibilidade, custo de token. Isso é exatamente o que a CALL da prática pediu (Copilot skill, IA no dia a dia, case que agrega além do contrato).
+Ana Karina é Associate (**~5 meses** na admissão oficial 01/04/2026), ainda na faculdade, com energia alta e projeto que ela gosta no **Bradesco**.
 
-O risco dela é o oposto do da Andressa Silva: **prioridades demais, pouca meta de entrega**. Sete prioridades diluem o ciclo. Inglês C1+ já é vitória — não pode continuar como prioridade de crescimento. Swift é aposta de FY27. Certificação de IA ela mesma adiou, com razão, por causa da faculdade e do cliente.
+O risco principal dela: **prioridades demais, pouca meta de entrega**. Sete prioridades diluem o ciclo. Inglês C1+ já é vitória — não pode continuar como prioridade de crescimento. Swift é aposta de FY27. Certificação de IA ela mesma adiou, com razão, por causa da faculdade e do cliente.
+
+**Autorreflexão ABCD:** até 28/08 **não recebida** pelo People Lead — cobrar envio/submissão no Workday.
 
 Com a Paula, o rito era planejamento de trimestre / semestre / ano. Recriar isso. Ela sente falta.
 
@@ -75,7 +77,7 @@ Com a Paula, o rito era planejamento de trimestre / semestre / ano. Recriar isso
 - [ ] E-mail da Paula (CA anterior)
 - [x] E-mail do gestor — **Rafael Coloda** (rafael.coloda@avanade.com) — confirmado RH 28/08
 - [ ] Workday: status exato da **AI-900** (já feita vs. planejada?)
-- [ ] Workday ABCD — confirmar se submeteu em 28/08
+- [ ] Workday ABCD — **não submetida / não enviada ao PL** (cobrar Ana)
 - [ ] Feedback da **Jessica** — chegou / pendente?
 - [ ] Compliance 31/07 — ela ia conferir
 - [ ] Skill Copilot no mini CV (candidata forte a **primário**)

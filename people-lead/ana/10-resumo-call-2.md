@@ -38,7 +38,7 @@ Call de **fechamento do Workday**: projeto em **homologação** (marco de cresci
 
 | Item | Status / orientação |
 |---|---|
-| ABCD Reflections | Pendente na call; fazer **28/08** (4 prioridades) |
+| ABCD Reflections | **Não submetida** — combinado na call #2 para 28/08; PL **ainda não recebeu** |
 | Swift | Não cumprido (sem MacBook) → **mover para FY27**; citar início dos estudos na reflexão |
 | AZ-900 | **Já concluída** |
 | AI-900 | Revisar se marcou corretamente no fiscal |
@@ -49,7 +49,7 @@ Call de **fechamento do Workday**: projeto em **homologação** (marco de cresci
 
 | Item | Responsável | Prazo |
 |---|---|---|
-| Autorreflexão ABCD (4 prioridades) | Ana | 28/08 |
+| Autorreflexão ABCD (4 prioridades) | Ana | **Pendente — cobrar submissão** |
 | Pedido/reforço feedback Jessica | Ana | Imediato |
 | Material Copilot + docs PUG | PL | Próximos dias |
 | Falar com Jessica sobre feedback | PL | Próximos dias |

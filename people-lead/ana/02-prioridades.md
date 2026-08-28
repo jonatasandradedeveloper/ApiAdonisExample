@@ -22,7 +22,7 @@ Incorporar Copilot em rotinas e projetos; produtividade com IA; integrar em dese
 
 | Campo | Conteúdo |
 |---|---|
-| Status em 24/08 | `[EM ANDAMENTO]` — **melhor prioridade das duas mentoradas** |
+| Status em 24/08 | `[EM ANDAMENTO]` — **principal diferencial dela no ciclo** |
 | Status em 28/08 | **Evoluiu:** agentes Copilot (analytics — criado por ela; +2 do time), IA no frontend, VS Code no cliente. IADrops/João |
 | Alinhamento empresa | Máximo (CALL, skill novo de Copilot, projetos agenteicos) |
 | Alinhamento projeto | Alto (time já testa prompt, agente de acessibilidade, token) |

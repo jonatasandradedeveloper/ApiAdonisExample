@@ -23,7 +23,7 @@ Com a Paula ela planejava trimestre / semestre / ano. Recriar isso abaixo e atua
 
 | Foco | Resultado |
 |---|---|
-| December Cycle | Workday ABCD (28/08); feedback Jessica; revisores |
+| December Cycle | Workday ABCD — **submissão pendente**; feedback Jessica; revisores |
 | Entrega | Homologação do app + 2–3 contribuições visíveis (features/PRs) |
 | Copilot / IA | Agentes (analytics, frontend) + 1 case escrito; AZ-900 registrada |
 | Mini CV | Skill Copilot **primário**; Kotlin/Android; inglês C1+ |

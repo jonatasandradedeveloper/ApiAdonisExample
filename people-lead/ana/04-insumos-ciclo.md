@@ -64,7 +64,7 @@ Só escrever voluntariado / impacto social se houver fato. Senão, uma linha: �
 ## Checklist Workday / empresa
 
 - [ ] Recortar / fechar as 7 prioridades com texto honesto
-- [ ] Self-review submetido (profissional — prazo 28/08)
+- [ ] Self-review submetido — **NÃO** (Ana ainda não enviou/submeteu ao PL)
 - [ ] **Input PL no ABCD Form — até 11/09** — rascunho: `12-abcd-form-people-lead-rascunho.md`
 - [ ] Revisores conversados (Jessica + Rafael Coloda)
 - [ ] Compliance zerado

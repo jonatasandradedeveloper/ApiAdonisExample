@@ -50,7 +50,7 @@ Cadência combinada: **1x por mês**, com planejamento de trimestre / semestre /
 ### Combinados
 
 - [x] PL: orientar autorreflexão Workday (Swift → FY27; honestidade nas não entregas)
-- [ ] Ana: concluir ABCD Reflections **28/08** (4 prioridades)
+- [ ] Ana: concluir e **submeter** ABCD Reflections no Workday (4 prioridades) — **pendente; PL ainda não recebeu**
 - [ ] Ana: pedir/reforçar feedback da **Jessica** no Workday
 - [ ] Ana: citar agentes de IA + treinamentos (AZ-900, skill Copilot) na reflexão
 - [ ] PL: enviar material Copilot + procurar docs do **PUG**
@@ -114,7 +114,7 @@ Cadência combinada: **1x por mês**, com planejamento de trimestre / semestre /
 
 ### Notas do PL (não ler na call)
 
-- Energia oposta à da Andressa Silva: Ana Karina está no projeto certo para o momento.
+- Energia alta no projeto Bradesco — está no projeto certo para o momento.
 - Cuidado para o PL não projetar a própria história Flutter nela. O norte dela é **nativo + arquitetura**, com Swift no radar.
 - Copilot já é o diferencial. Se o Workday não contar isso com exemplo, a prática não vê.
 - Associate + faculdade: proteger contra overcommit. 7 prioridades é overcommit institucionalizado.

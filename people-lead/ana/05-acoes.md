@@ -11,7 +11,7 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 - [ ] Enviar material Copilot + docs **PUG** para Ana
 - [ ] Falar com **Jessica** para feedback no Workday
 - [ ] Pegar e-mail da Paula (CA anterior), se ainda não chegou
-- [ ] Confirmar se Ana submeteu autorreflexão ABCD (28/08)
+- [ ] Confirmar submissão da autorreflexão ABCD — **não recebida do PL até 28/08**
 - [ ] **Input ABCD Form no Workday — até 11/09/2026** — usar `12-abcd-form-people-lead-rascunho.md`
 - [ ] Revisar insumos (`04-insumos-ciclo.md`) antes do input PL
 - [ ] Combinar expectativa de cargo (consolidar vs. Analyst) — **pauta 1:1 #3**
@@ -19,7 +19,7 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 
 ### Ana Karina
 
-- [ ] Concluir ABCD Reflections no Workday (**28/08** — combinado na call #2)
+- [ ] **Submeter** ABCD Reflections no Workday (4 prioridades) — **PENDENTE; PL aguardando**
 - [ ] Reforçar pedido de feedback da **Jessica** no Workday
 - [ ] Na reflexão: citar **homologação**, **agentes IA**, AZ-900, treinamentos/skill Copilot
 - [ ] Swift: honestidade + mover meta para FY27 (orientado na #2)

@@ -24,7 +24,13 @@ Este índice descreve o conteúdo do **documento único** — tudo sobre a Ana K
 | 11 | Workday prioridades ABCD | `08-workday-prioridades-abcd.md` |
 | 12 | Autorreflexão — passo a passo | `09-autorreflexao-passo-a-passo.md` |
 | 13 | ABCD Form — rascunho PL | `12-abcd-form-people-lead-rascunho.md` |
-| Anexo | Orientação ciclo FY26 | `01-ciclo-dezembro-orientacao.md` |
+| 14 | Orientação ciclo (só Ana) | `13-orientacao-ciclo-ana.md` |
+
+---
+
+## Status autorreflexão
+
+**28/08:** Ana **ainda não submeteu** no Workday e **não enviou** ao People Lead.
 
 ---
 
@@ -42,6 +48,6 @@ cp word/Ana-Karina-Documento-Unico-People-Lead.docx ../DOCS-PEOPLE-LEAD/Ana-Kari
 
 | Quem | O quê | Prazo |
 |---|---|---|
-| Ana | Autorreflexão ABCD | 28/08/2026 |
+| Ana | Autorreflexão ABCD | 28/08 — **pendente (não enviada ao PL)** |
 | Jônatas (PL) | ABCD Form | **11/09/2026** |
 | Gestor projeto | Rafael Coloda — rafael.coloda@avanade.com |

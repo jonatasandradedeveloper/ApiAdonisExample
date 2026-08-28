@@ -44,12 +44,13 @@ ANA_SECTIONS = [
     ("08-workday-prioridades-abcd.md", "11. Workday — prioridades e ABCD"),
     ("09-autorreflexao-passo-a-passo.md", "12. Autorreflexão ABCD — passo a passo (Ana)"),
     ("12-abcd-form-people-lead-rascunho.md", "13. ABCD Form — rascunho do People Lead"),
+    ("13-orientacao-ciclo-ana.md", "14. Orientação do ciclo (Ana Karina)"),
 ]
 
 VEREDITO = (
     "Associate no BANCO BRADESCO (adm. 01/04/2026) com entrega em homologação, "
     "Copilot/agentes de IA como diferencial, inglês C1+ e AZ-900. Swift e AI-900 → FY27. "
-    "Não promover neste FY; destaque qualitativo. Input PL no ABCD Form até 11/09/2026."
+    "Autorreflexão ABCD: ainda não submetida (28/08). Input PL até 11/09/2026."
 )
 
 
@@ -84,7 +85,7 @@ def add_cover(doc: Document) -> None:
         ("Gestor projeto", "Rafael Coloda — rafael.coloda@avanade.com"),
         ("People Lead", "Jônatas Andrade Da Silva"),
         ("Admissão", "01/04/2026 · Alocação até 01/04/2027"),
-        ("Prazos", "Ana: autorreflexão ABCD 28/08 · PL: ABCD Form até 11/09"),
+        ("Prazos", "Ana: autorreflexão ABCD 28/08 (não submetida) · PL: 11/09"),
         ("Última atualização", "28 de agosto de 2026"),
     ]
     for i, (k, v) in enumerate(rows):
@@ -120,7 +121,7 @@ def add_toc(doc: Document) -> None:
         p.paragraph_format.space_after = Pt(6)
 
     p = doc.add_paragraph()
-    add_runs(p, "Anexo — Orientação geral do December Cycle (CALL da prática)")
+    add_runs(p, "14. Orientação do ciclo (Ana Karina)")
     p.paragraph_format.space_after = Pt(6)
 
     tip = doc.add_paragraph()
@@ -148,12 +149,6 @@ def build() -> Path:
         md = path.read_text(encoding="utf-8")
         doc.add_heading(section_title, level=1)
         markdown_to_doc(md, doc, skip_first_h1=True, demote=1)
-
-    ciclo_path = ROOT / "01-ciclo-dezembro-orientacao.md"
-    if ciclo_path.exists():
-        doc.add_page_break()
-        doc.add_heading("Anexo — Orientação geral do December Cycle", level=1)
-        markdown_to_doc(ciclo_path.read_text(encoding="utf-8"), doc, skip_first_h1=True, demote=1)
 
     OUT.mkdir(parents=True, exist_ok=True)
     doc.save(OUTPUT)

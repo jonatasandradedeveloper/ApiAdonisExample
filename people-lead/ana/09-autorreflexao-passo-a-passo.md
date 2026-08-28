@@ -2,8 +2,8 @@
 **Cliente: BANCO BRADESCO · Associate, Mobile · Prazo: 28/08**  
 People Lead: Jônatas
 
-Use junto com o resumo da call e o doc de prioridades.  
-Aqui está **só o caminho na tela** + textos para colar na **Autorreflexão**.
+> **Status (28/08):** Ana **ainda não submeteu** a autorreflexão no Workday e **não enviou** ao People Lead.  
+> Este doc é o guia para ela preencher — textos prontos abaixo.
 
 ---
 

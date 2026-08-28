@@ -1,6 +1,8 @@
 # Workday — Ana Karina (BANCO BRADESCO)  
 ## Prioridades FY26 + ABCD Reflections · prazo 28/08
 
+> **Status:** autorreflexão **não submetida** — Ana ainda não enviou ao People Lead.
+
 People Lead: Jônatas  
 Use este texto como **base para colar** no Workday. Ajuste entregas reais do app e Enterprise ID dos revisores antes de enviar.
 

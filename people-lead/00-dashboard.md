@@ -41,12 +41,11 @@ Atualizar depois de cada 1:1. Este é o arquivo de segunda-feira: duas pessoas, 
 
 ## Fila do People Lead nesta semana
 
-1. **Input ABCD Form Ana — até 11/09** (usar `ana/11-dados-oficiais-rh-ciclo.md`).
-2. Confirmar Ana submeteu autorreflexão (28/08); coletar feedback Jessica + Rafael Coloda.
-3. Enviar material Copilot/PUG; agendar 1:1 #3 Ana (T/S/A).
-4. Marcar 1:1 fechamento Andressa (MAPFRE).
-5. Andressa: pedir e-mail Rafael Martins; 3 evidências sustentação.
-6. Revisar autoavaliação Andressa antes do Workday.
+1. **Feedbacks Ana** — Rafael Coloda + Jessica (msgs em `14-pedidos-feedback-mentorados.md`).
+2. Cobrar Ana: autorreflexão ABCD + pedidos de feedback no Workday.
+3. **Feedbacks Andressa** — pedir e-mail Rafael Martins; enviar pedido.
+4. **Input ABCD Form Ana — até 11/09**.
+5. Marcar 1:1 #3 Ana / 1:1 #2 Andressa.
 
 ## Notas rápidas (riscar quando resolvido)
 

@@ -6,6 +6,8 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 
 ### People Lead
 
+- [ ] Pedir à Andressa: e-mail do Rafael Martins + feedbacks (msg pronta em `14-pedidos-feedback.md`)
+- [ ] Enviar e-mail de feedback ao **Rafael Martins** (quando tiver o e-mail)
 - [ ] Agendar 1:1 #2 (esta semana / próxima)
 - [ ] Pedir o e-mail do Rafael Martins e se apresentar como PL
 - [ ] Revisar rascunho da autoavaliação dela **antes** dela submeter

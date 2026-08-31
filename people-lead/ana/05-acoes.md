@@ -8,6 +8,9 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 
 - [x] Agendar e realizar 1:1 #2 (28/08 — foco Workday)
 - [x] E-mail gestor confirmado — **Rafael Coloda** (rafael.coloda@avanade.com) via RH
+- [ ] Pedir feedback **Rafael Coloda** (e-mail pronto em `14-pedidos-feedback.md`)
+- [ ] Pedir feedback **Jessica** (Teams/Workday)
+- [ ] Cobrar Ana: autorreflexão + pedido de feedback no Workday
 - [ ] Enviar material Copilot + docs **PUG** para Ana
 - [ ] Falar com **Jessica** para feedback no Workday
 - [ ] Pegar e-mail da Paula (CA anterior), se ainda não chegou

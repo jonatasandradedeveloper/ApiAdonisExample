@@ -4,21 +4,17 @@ PASTA PRINCIPAL DOS DOCUMENTOS WORD — People Lead
    Histórico das mentoradas. NÃO enviado à Ana nem à Andressa.
 
 ⚠️ URGENTE
-  Ana — autorreflexão ABCD: pendente (orientação foi verbal na call)
-  PL — ABCD Form Ana: até 11/09/2026
+  Feedbacks mentorados → DOCS-PEOPLE-LEAD/00-Pedidos-Feedback-Mentorados.docx
+  Ana — autorreflexão ABCD: pendente · PL ABCD Form: até 11/09
 
 ═══════════════════════════════════════════════════════════
   ANA KARINA (BANCO BRADESCO)
 ═══════════════════════════════════════════════════════════
 
   ★ 00-Documento-Unico.docx  ← SEU histórico completo (só Ana, uso interno)
-     Autorreflexão: pendente — guia Workday NÃO foi passado para ela
+  09-Pedidos-Feedback.docx   ← msgs Rafael Coloda + Jessica + Ana
 
-  Capítulos soltos (também internos):
-  01-Resumo-Call.docx · 06-Resumo-Call-2.docx
-  07-Dados-Oficiais-RH-Ciclo.docx · 08-ABCD-Form-People-Lead-Rascunho.docx
-  02-Planejamento · 03-Historico-Completo · 04-Workday · 05-Autorreflexao (ref. PL)
-
-Andressa Silva (MAPFRE) — pasta separada, mesmo princípio (histórico interno PL)
+Andressa Silva (MAPFRE)
+  06-Pedidos-Feedback.docx   ← msgs Rafael Martins + Andressa
 
 Branch: cursor/people-lead-historico-carreira-7fba

@@ -1,0 +1,105 @@
+# Kit People Lead — acompanhamento de carreira
+
+Documentação viva para o People Lead acompanhar **Andressa Silva (MAPFRE)** e **Ana Karina (BANCO BRADESCO)**.
+
+Tudo aqui é editável. A cada 1:1, atualize o histórico, o status das prioridades e o plano. O objetivo não é um relatório estático: é um dossiê que cresce com o ciclo.
+
+## Como usar
+
+1. Antes da 1:1, abra a ficha da pessoa e o arquivo de ações.
+2. Durante a 1:1, anote no histórico (`01-historico-1-1.md`).
+3. Depois da 1:1, atualize status das prioridades, plano de carreira e o [dashboard](00-dashboard.md).
+4. No fechamento do FY26, use `04-insumos-ciclo.md` como briefing para Workday, calibração e conversa com o líder da prática.
+
+## Versão Word (editável no Microsoft Word / Google Docs)
+
+### Documentos completos (use estes)
+
+| Arquivo | Conteúdo |
+|---|---|
+| [`word/Andressa-Silva-Historico-Completo-People-Lead.docx`](word/Andressa-Silva-Historico-Completo-People-Lead.docx) | Capa, sumário, ficha, 1:1s, prioridades, carreira, ciclo, ações, anexos — cliente **MAPFRE** |
+| [`word/Ana-Karina-Historico-Completo-People-Lead.docx`](word/Ana-Karina-Historico-Completo-People-Lead.docx) | Dossiê base (ficha, 1:1s, prioridades, carreira, ciclo, ações) — **BANCO BRADESCO** |
+| [`word/Ana-Karina-Documento-Unico-People-Lead.docx`](word/Ana-Karina-Documento-Unico-People-Lead.docx) | **Documento único Ana** — tudo num arquivo (calls, Workday, ABCD PL, RH, etc.) |
+
+### Planejamento separado (carreira × empresa)
+
+| Arquivo | Conteúdo |
+|---|---|
+| [`word/Andressa-Silva-Planejamento-Carreira-e-Empresa.docx`](word/Andressa-Silva-Planejamento-Carreira-e-Empresa.docx) | O que a empresa precisa × plano de carreira da Andressa (**MAPFRE**) |
+| [`word/Ana-Karina-Planejamento-Carreira-e-Empresa.docx`](word/Ana-Karina-Planejamento-Carreira-e-Empresa.docx) | O que a empresa precisa × plano de carreira da Ana (**BANCO BRADESCO**) |
+
+Fontes: `andressa/06-planejamento-carreira-empresa.md` e `ana/06-planejamento-carreira-empresa.md`.
+
+```bash
+cd people-lead && python3 generate_planejamento_docs.py
+```
+
+Regenerar os completos:
+
+```bash
+cd people-lead && python3 generate_complete_docs.py
+```
+
+Regenerar o **documento único da Ana**:
+
+```bash
+cd people-lead && python3 generate_ana_documento_unico.py
+```
+
+### Demais arquivos Word
+
+| Arquivo | Uso |
+|---|---|
+| `word/00-dashboard.docx` | Visão das duas |
+| `word/01-ciclo-dezembro-orientacao.docx` | Orientação do December Cycle |
+| `word/02-parecer-prioridades.docx` | Parecer das prioridades |
+| `word/andressa/*.docx` / `word/ana/*.docx` | Capítulos soltos |
+| `word/_templates/*.docx` | Templates de 1:1, feedback e fechamento |
+| `word/DOSSIE-*.docx` | Versão concatenada simples (preferir os *Historico-Completo*) |
+
+Para regenerar os Word a partir dos Markdown (capítulos + dossiês simples):
+
+```bash
+cd people-lead && python3 generate_word.py
+```
+
+## Estrutura
+
+```text
+people-lead/
+  README.md
+  00-dashboard.md                          ← visão mensal das duas pessoas
+  01-ciclo-dezembro-orientacao.md          ← CALL geral → papel de cada um
+  02-parecer-prioridades.md                ← análise: as prioridades fazem sentido?
+  generate_word.py                         ← gera os .docx
+  word/                                    ← arquivos Word editáveis
+  _templates/                              ← copiar para novas 1:1s ou novas mentoradas
+  andressa/
+  ana/
+```
+
+Cada pessoa tem o mesmo conjunto de arquivos:
+
+| Arquivo | Para que serve |
+|---|---|
+| `00-ficha.md` | Quem é, alocação, contexto, sinais de risco e potencial |
+| `01-historico-1-1.md` | Diário das conversas (append-only) |
+| `02-prioridades.md` | Prioridades declaradas + parecer + versão recomendada para o ciclo |
+| `03-plano-carreira.md` | Trajetória 90 dias / 6 meses / 12 meses |
+| `04-insumos-ciclo.md` | Briefing para autoavaliação, revisores, calibração e feedback |
+| `05-acoes.md` | Checklist do que falta fazer agora |
+
+## Convenção de status
+
+Use sempre estas tags para facilitar a leitura no tempo:
+
+- `[ABERTO]` ainda não começou
+- `[EM ANDAMENTO]` tem evidência parcial
+- `[BLOQUEADO]` tem impedimento (inglês, alocação, tempo, ferramenta)
+- `[CONCLUÍDO]` tem evidência
+- `[REORIENTAR]` prioridade original não é a melhor para o ciclo; trocar ou recortar
+- `[ESTACIONAR]` importante na carreira, mas não fecha o FY26
+
+## Princípio do ciclo
+
+No December Cycle a pessoa é a **advogada da própria performance**. O People Lead é o **representante** dela na prática. Sem autoavaliação, feedback de projeto e evidência no Workday, a calibração fica vazia.

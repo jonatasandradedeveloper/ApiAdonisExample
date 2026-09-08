@@ -13,6 +13,8 @@ Briefing do People Lead para Workday, calibração da prática e feedback de nov
 | Mérito / destaque de Associate? | **Sim, se Copilot + entrega aparecerem no Workday** | Homologação + agentes IA + feedback Jessica |
 | Mensagem de feedback | “Você priorizou o cliente com razão. O ciclo precisa enxergar isso. Inglês C1+ já é resultado. IA e Swift continuam no plano, com menos itens ao mesmo tempo.” | |
 
+**Justificativa da Recomendação (pronta para colar):** `15-justificativa-recomendacao.md`
+
 Levar para a prática: **Associate mobile no BANCO BRADESCO (app nativo), homologação em curso, agentes Copilot/IA (analytics + frontend), inglês C1+, norte de arquitetura. Risco: prioridades dispersas no Workday — mitigado na 1:1 #2 com 4 reflexões.**
 
 ## Roteiro da autoavaliação (ela escreve; PL revisa)

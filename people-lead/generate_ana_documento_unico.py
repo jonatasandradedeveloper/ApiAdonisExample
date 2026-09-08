@@ -45,7 +45,8 @@ ANA_SECTIONS = [
     ("08-workday-prioridades-abcd.md", "11. Workday — prioridades e ABCD"),
     ("09-autorreflexao-passo-a-passo.md", "12. Autorreflexão ABCD — passo a passo (Ana)"),
     ("12-abcd-form-people-lead-rascunho.md", "13. ABCD Form — rascunho do People Lead"),
-    ("13-orientacao-ciclo-ana.md", "14. Orientação do ciclo (Ana Karina)"),
+    ("15-justificativa-recomendacao.md", "14. Justificativa da Recomendação"),
+    ("13-orientacao-ciclo-ana.md", "15. Orientação do ciclo (Ana Karina)"),
 ]
 
 VEREDITO = (
@@ -120,10 +121,6 @@ def add_toc(doc: Document) -> None:
         p = doc.add_paragraph()
         add_runs(p, title)
         p.paragraph_format.space_after = Pt(6)
-
-    p = doc.add_paragraph()
-    add_runs(p, "14. Orientação do ciclo (Ana Karina)")
-    p.paragraph_format.space_after = Pt(6)
 
     tip = doc.add_paragraph()
     r = tip.add_run(

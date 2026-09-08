@@ -37,16 +37,17 @@ SECTIONS = [
     ("04-insumos-ciclo.md", "7. Insumos para o December Cycle"),
     ("05-acoes.md", "8. Ações e checklist"),
     ("14-pedidos-feedback.md", "9. Pedidos de feedback (gestor / colega)"),
-    ("08-workday-prioridades-abcd.md", "10. Workday — prioridades e ABCD"),
-    ("09-autorreflexao-passo-a-passo.md", "11. Autorreflexão ABCD — referência PL"),
-    ("13-orientacao-ciclo-andressa.md", "12. Orientação do ciclo (Andressa Silva)"),
+    ("16-feedbacks-projeto.md", "10. Feedbacks de projeto (Camila, Renata, Rafael)"),
+    ("15-justificativa-recomendacao.md", "11. Justificativa da Recomendação"),
+    ("08-workday-prioridades-abcd.md", "12. Workday — prioridades e ABCD"),
+    ("09-autorreflexao-passo-a-passo.md", "13. Autorreflexão ABCD — referência PL"),
+    ("13-orientacao-ciclo-andressa.md", "14. Orientação do ciclo (Andressa Silva)"),
 ]
 
 VEREDITO = (
-    "Analyst na MAPFRE (sustentação legado): prioridades cadastradas incompletas "
-    "(AI-900 bloqueada + Women In Tech). Falta narrar performance no projeto. "
-    "Histórico forte Pix/microsserviços + SC/DP-900. Não promover neste FY; "
-    "mérito depende de evidência MAPFRE + feedback Rafael Martins. 1:1 #2 pendente."
+    "Analyst MAPFRE: WIT (Camila) e par Renata (C#/SQL) fortes. "
+    "Gestor Rafael G. Martins: Review in 12 months; evolução técnica abaixo do esperado; "
+    "foco autonomia + .NET. Não promover neste FY. Justificativa pronta."
 )
 
 
@@ -78,10 +79,10 @@ def add_cover(doc: Document) -> None:
     rows = [
         ("Cargo", "Analyst, Back-End Developer"),
         ("Cliente / projeto", "MAPFRE — sustentação (stack legado)"),
-        ("Gestor projeto", "Rafael Martins — e-mail a confirmar"),
+        ("Gestor projeto", "Rafael G. Martins — Review in 12 months (feedback 08/09)"),
         ("People Lead", "Jônatas Andrade Da Silva"),
         ("Na Avanade desde", "2022"),
-        ("Prazos", "1:1 #2 pendente · autorreflexão ABCD a confirmar · input PL em setembro"),
+        ("Prazos", "Justificativa pronta · input PL em setembro"),
         ("Última atualização", "8 de setembro de 2026"),
     ]
     for i, (k, v) in enumerate(rows):

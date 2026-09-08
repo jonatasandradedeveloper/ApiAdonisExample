@@ -1,16 +1,19 @@
 # Andressa Silva — insumos para o December Cycle
 
-Briefing do People Lead para Workday, calibração da prática e feedback de novembro. Preencher os buracos com ela na 1:1 #2.
+Briefing do People Lead para Workday, calibração da prática e feedback de novembro.
+
+> Feedbacks recebidos 08/09: Camila (WIT) · Renata (par) · **Rafael G. Martins** (gestor).  
+> Justificativa: `15-justificativa-recomendacao.md` · Brutos: `16-feedbacks-projeto.md`
 
 ## Posição sugerida neste ciclo
 
-| Pergunta da calibração | Leitura atual (24/08) | Confirmar em setembro |
+| Pergunta da calibração | Leitura atual (08/09) | Evidência |
 |---|---|---|
-| Pronta para promoção? | **Provavelmente não neste FY**, se a evidência continuar só legado + certificação sem badge | Feedback do projeto + tempo de Analyst |
-| Mérito? | Depende de como a sustentação for narrada e do feedback do Rafael Martins | Precisa de evidência escrita |
-| Mensagem de feedback | “Você não estagnou por falta de vontade. O ano foi um projeto estreito. Vamos recuperar stack, idioma e visibilidade.” | Ajustar ao que o projeto disser |
+| Pronta para promoção? | **Não** | Gestor: Review in 12 months; evolução técnica abaixo do esperado |
+| Mérito? | **Cautela** — WIT e par fortes; performance projeto pede aceleração | Camila + Renata vs. business case Rafael |
+| Mensagem de feedback | “Seu potencial e colaboração foram reconhecidos. O gestor pede acelerar .NET e autonomia. Women In Tech ficou sólido. Próximo ciclo: menos dependência de apoio.” | |
 
-Não levar para a prática a frase “ela está frustrada”. Levar: **Analyst com histórico de Pix/microsserviços, hoje em sustentação legado, com esforço real de certificação e atuação em Women In Tech. Risco de subutilização.**
+Levar para a prática: **Analyst MAPFRE com potencial; WIT e par (C#/SQL) positivos; gestor pede aceleração técnica, autonomia e Review in 12 months. Não promover neste FY.**
 
 ## Roteiro da autoavaliação (ela escreve; PL revisa)
 

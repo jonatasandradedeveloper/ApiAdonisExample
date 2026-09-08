@@ -9,7 +9,7 @@ Atualizar o topo desta ficha sempre que mudar alocação, cargo ou sinal de risc
 | Nome | Andressa Silva | 2026-08-24 |
 | Cargo | Analyst, Back-End Developer | 2026-07-28 |
 | Cliente / projeto | **MAPFRE** (sustentação; time pequeno, stack legado) | 2026-08-24 |
-| Gestor no projeto | Rafael Martins — **confirmar e-mail** | 2026-07-28 |
+| Gestor no projeto | **Rafael G. Martins** — feedback ciclo recebido 08/09 (Review in 12 months) | 2026-09-08 |
 | People Lead | Jônatas (desde jul/2026; anterior: Josias, agora CA) | 2026-07-28 |
 | Base | Guararema / região de São José dos Campos | 2026-07-28 |
 | Na Avanade desde | 2022 (contratação atrasada por COVID; promoção próxima da entrada) | 2026-07-28 |

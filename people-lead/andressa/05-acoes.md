@@ -6,13 +6,12 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 
 ### People Lead
 
-- [ ] Pedir à Andressa: e-mail do Rafael Martins + feedbacks (msg pronta em `14-pedidos-feedback.md`)
-- [ ] Enviar e-mail de feedback ao **Rafael Martins** (quando tiver o e-mail)
-- [ ] Agendar 1:1 #2 (esta semana / próxima)
-- [ ] Pedir o e-mail do Rafael Martins e se apresentar como PL
-- [ ] Revisar rascunho da autoavaliação dela **antes** dela submeter
+- [x] Feedbacks recebidos: Camila (WIT), Renata (par), **Rafael G. Martins** (gestor) — 08/09
+- [ ] **Input ABCD Form + Justificativa** — `15-justificativa-recomendacao.md` (≤3000)
+- [ ] Agendar 1:1 #2 / #3 — pauta: autonomia, .NET aplicado, Review 12 months, plano certificação/inglês
+- [ ] Alinhar com Andressa a leitura do gestor (sem surpresa no feedback de novembro)
 - [ ] Confirmar compliance no que o PL consegue ver
-- [ ] Anotar no dashboard o status depois da #2
+- [ ] Anotar no dashboard o status após input
 
 ### Andressa Silva
 
@@ -45,3 +44,4 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 |---|---|---|---|
 | 2026-07-28 | 1:1 #1 | ambos | Cadência mensal combinada |
 | 2026-08-24 | Dossiê inicial do PL | PL | Parecer de prioridades + plano |
+| 2026-09-08 | Feedbacks projeto | Camila, Renata, Rafael G. Martins | Incorporados na justificativa |

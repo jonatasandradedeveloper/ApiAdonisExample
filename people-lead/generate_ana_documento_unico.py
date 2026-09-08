@@ -51,9 +51,9 @@ ANA_SECTIONS = [
 ]
 
 VEREDITO = (
-    "Associate no BANCO BRADESCO (adm. 01/04/2026) com entrega em homologação, "
-    "Copilot/agentes de IA como diferencial, inglês C1+ e AZ-900. Swift e AI-900 → FY27. "
-    "Autorreflexão ABCD: ainda não submetida (28/08). Input PL até 11/09/2026."
+    "Associate no BANCO BRADESCO (adm. 01/04/2026). Feedbacks Rafael+Jessica+Celline "
+    "confirmam desempenho alinhado ao nível (qualidade, riscos, colaboração). "
+    "Evolução: autonomia + horas no Jira. Não promover neste FY. Justificativa pronta."
 )
 
 

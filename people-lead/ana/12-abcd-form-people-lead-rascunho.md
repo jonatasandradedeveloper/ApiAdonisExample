@@ -152,11 +152,10 @@ Associate **12** no **BANCO BRADESCO** com ~5 meses de admissão oficial (01/04/
 
 ### Development Areas (oportunidades)
 
-- Evidenciar entregas com nomes, PRs e feedback formal do gestor
-- Reduzir dispersão de metas; focar 3 frentes por ciclo
-- Formalizar case de IA (agentes) para replicação na prática
-- Retomar trilha FY27: AI-900, Swift (depende Mac/alocação iOS)
-- Voluntariado/comunidade: uma ação concreta no próximo FY
+- Maior autonomia em atividades de maior complexidade (Rafael + Jessica)
+- Disciplina no **lançamento de horas no Jira** (Rafael — ponto explícito)
+- Evidenciar entregas com nomes/PRs; formalizar case de IA
+- Trilha FY27: AI-900, Swift; voluntariado/comunidade com uma ação concreta
 
 ### Behavioral / Soft Skills (observação PL)
 
@@ -164,9 +163,7 @@ Comunicação clara e colaborativa; abertura ao feedback; responsabilidade ao co
 
 ### Alignment with Self-Reflection
 
-**Pendente:** Ana Karina **ainda não submeteu** a autorreflexão ABCD no Workday (28/08). Este rascunho do PL baseia-se nas **1:1s de 28/07 e 28/08**. Quando ela submeter, revisar alinhamento e ajustar comentários antes do input de **11/09**.
-
-Expectativa prévia: autoavaliação coerente com o acompanhamento (entrega no cliente, IA aplicada, inglês C1+; Swift/voluntariado honestos para FY27).
+Feedbacks de projeto (**Rafael, Jessica, Celline** — 08/09) **confirmam** a leitura das 1:1s: Associate sólido, qualidade, colaboração. Autorreflexão ABCD dela: cruzar quando submeter. Justificativa atualizada em `15-justificativa-recomendacao.md`.
 
 ### Ready for Next Level? (Associate → Analyst)
 
@@ -180,16 +177,13 @@ Expectativa prévia: autoavaliação coerente com o acompanhamento (entrega no c
 
 ---
 
-## Antes de enviar (checklist PL)
-
-- [ ] Ana **submeteu** autorreflexão ABCD no Workday — **NÃO (28/08) — cobrar**
-- [ ] Quando submeter: ler e cruzar com este rascunho
-- [ ] Tenho feedback de **Rafael Coloda** (ou solicitei por e-mail)
-- [ ] Tenho feedback de **Jessica** (ou combinei com ela)
-- [ ] Substituí todos os `[...]` por evidências reais
-- [ ] Revisei impacto sugerido vs. feedback de projeto
+- [x] Feedback de **Rafael Coloda** (08/09)
+- [x] Feedback de **Jessica** (08/09)
+- [x] Feedback de **Celline** (08/09)
+- [ ] Ana **submeteu** autorreflexão ABCD — cruzar quando chegar
+- [ ] Colar Justificativa (`15-justificativa-recomendacao.md`) no Workday
 - [ ] Salvei cópia do texto enviado (Talent Discussions podem ajustar)
-- [ ] Prazo: **até 11/09/2026**
+- [ ] Prazo: **até 11/09/2026** (confirmar se ainda válido)
 
 ## Contatos se faltar dado
 

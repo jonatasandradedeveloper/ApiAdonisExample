@@ -22,24 +22,25 @@ Feedbacks de projeto: **Rafael Coloda**, **Jessica**, **Celline** (registrados 0
 ---
 
 ## Texto para colar — Justificativa da Recomendação
+**Limite Workday: 3.000 caracteres · este texto: ~2.230**
 
-Durante o período acompanhado neste FY26, Ana Karina atuou como **Associate, Mobile & Device Dev**, no cliente **BANCO BRADESCO**, no desenvolvimento do **app nativo (Kotlin/Android)**. Cumpriu o escopo esperado para o nível Associate, com **evolução consistente** na condução das atividades sob sua responsabilidade e na compreensão do produto — incluindo a transição do projeto de **desenvolvimento para homologação**, marco relevante de maturidade para o cargo e para o tempo de casa (admissão em 01/04/2026).
+Durante o FY26, Ana Karina atuou como Associate, Mobile & Device Dev, no BANCO BRADESCO, no app nativo (Kotlin/Android). Cumpriu o escopo do nível Associate com evolução consistente nas atividades e no domínio do produto, incluindo a transição de desenvolvimento para homologação — marco relevante para o cargo e o tempo de casa (admissão em 01/04/2026).
 
-O impacto observado está ligado à **entrega contínua no cliente**, à preocupação com a **qualidade das implementações** e à **comunicação antecipada de problemas e riscos** ao time. Também evoluiu o inglês de **B2 para C1+** no goFluent e concluiu a certificação **AZ-900**. Nas 1:1, relatou uso aplicado de Copilot/agentes de IA no fluxo do projeto, alinhado às prioridades da prática. Metas de médio prazo (ex.: Swift / AI-900 formal) foram conscientemente priorizadas em segundo plano diante da carga de **faculdade presencial + entrega no cliente**, com plano claro para o **FY27**.
+O impacto está ligado à entrega no cliente, à qualidade das implementações e à comunicação antecipada de problemas e riscos ao time. Evoluiu o inglês de B2 para C1+ (goFluent) e concluiu a AZ-900. Nas 1:1, relatou uso aplicado de Copilot/agentes de IA no projeto. Metas de médio prazo (Swift / AI-900) ficaram em segundo plano diante da faculdade presencial e da entrega no cliente, com plano para o FY27.
 
-Os feedbacks de projeto **confirmam** essa leitura. O gestor **Rafael Coloda** aponta desempenho consistente e alinhado ao nível, qualidade das entregas, cautela nas implementações, comunicação de riscos, busca adequada de apoio e postura colaborativa — destacando, como ponto de atenção, a necessidade de maior disciplina no **lançamento de horas no Jira**, de forma autônoma e consistente. A liderança técnica **Jessica** reforça evolução consistente, qualidade, comunicação de riscos, curiosidade e colaboração, com expectativa de ampliar autonomia técnica/funcional no próximo ciclo. A par **Celline** descreve profissional dedicada, transparente, organizada, com preocupação com qualidade e prazos e colaboração positiva no dia a dia.
+Os feedbacks de projeto confirmam essa leitura. Rafael Coloda (gestor) aponta desempenho consistente e alinhado ao nível, qualidade, cautela nas implementações, comunicação de riscos, busca adequada de apoio e colaboração — com ponto de atenção na disciplina do lançamento de horas no Jira, de forma autônoma. Jessica (liderança técnica) reforça evolução consistente, qualidade, comunicação de riscos, curiosidade e colaboração, com expectativa de maior autonomia técnica/funcional no próximo ciclo. Celline (par) destaca dedicação, transparência, organização, qualidade, prazos e colaboração positiva no dia a dia.
 
-Nas 1:1 com o People Lead, demonstra disponibilidade para diálogo, escuta ativa e interesse em compreender seu papel, expectativas e próximos passos. Apresenta postura profissional adequada, abertura para aprender, receptividade a feedbacks e clareza de norte de carreira (**arquitetura mobile**). Demonstra responsabilidade com combinados, honestidade no fechamento do ciclo e comportamento alinhado a um ambiente colaborativo e respeitoso.
+Nas 1:1 com o People Lead, demonstra diálogo, escuta ativa, abertura a feedbacks, postura profissional e norte de carreira em arquitetura mobile. Responsável com combinados, honesta no fechamento do ciclo e alinhada a um ambiente colaborativo.
 
-Segue em fase de **consolidação técnica e profissional no nível Associate**, com oportunidades claras de evolução em: maior autonomia na resolução de problemas e em atividades de maior complexidade; formalização de evidências e cases (incl. IA); e **disciplina nas responsabilidades operacionais (lançamento de horas no Jira)**. As 1:1 têm sido utilizadas como espaço de reflexão sobre carreira, ciclo de performance e crescimento contínuo.
+Segue em consolidação no nível Associate, com evolução em: autonomia em problemas e atividades mais complexas; formalização de evidências/cases (incl. IA); e disciplina operacional (horas no Jira). As 1:1 apoiam reflexão de carreira e ciclo.
 
-**Recomendação:** manter no nível **Associate** neste December Cycle, com reconhecimento do desempenho alinhado ao cargo e dos feedbacks positivos de gestor, liderança técnica e par; **não recomendar promoção** a Analyst neste FY, dado o tempo de casa e o próprio direcionamento dos feedbacks (consolidação e autonomia). Continuar acompanhamento mensal com plano trimestre/semestre/ano e alinhamento contínuo com **Rafael Coloda**.
+Recomendação: manter Associate neste December Cycle, reconhecendo o desempenho alinhado ao cargo e os feedbacks positivos de gestor, liderança técnica e par; não recomendar promoção a Analyst neste FY (tempo de casa e direcionamento dos feedbacks para consolidação/autonomia). Manter 1:1 mensal com plano trimestre/semestre/ano e alinhamento com Rafael Coloda.
 
 ---
 
-## Versão curta (se o campo tiver limite)
+## Versão ainda mais curta (~1.100 caracteres)
 
-Durante o FY26, Ana Karina (Associate, Mobile) no BANCO BRADESCO entregou no app nativo com evolução consistente até homologação, preocupação com qualidade e comunicação de riscos. Feedbacks de Rafael Coloda, Jessica e Celline confirmam desempenho alinhado ao nível, colaboração e curiosidade; ponto de evolução: lançamento de horas no Jira de forma autônoma. AZ-900 e inglês C1+ concluídos. **Recomendação: consolidar Associate; não promover a Analyst neste ciclo** — potencial alto para FY27 com maior autonomia.
+Durante o FY26, Ana Karina (Associate, Mobile) no BANCO BRADESCO entregou no app nativo com evolução consistente até homologação, preocupação com qualidade e comunicação de riscos. Feedbacks de Rafael Coloda, Jessica e Celline confirmam desempenho alinhado ao nível, colaboração e curiosidade; ponto de evolução: lançamento de horas no Jira de forma autônoma. AZ-900 e inglês C1+ concluídos. Recomendação: consolidar Associate; não promover a Analyst neste ciclo — potencial alto para FY27 com maior autonomia.
 
 ---
 

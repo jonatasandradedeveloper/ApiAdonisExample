@@ -4,8 +4,9 @@ Profissional: **Ana Karina Caetano Dos Santos Marques** · 12-Associate · Mobil
 Cliente: **BANCO BRADESCO** · Gestor projeto: **Rafael Coloda** (rafael.coloda@avanade.com)  
 People Lead: **Jônatas Andrade Da Silva** · Admissão: 01/04/2026
 
-> **Como usar:** rascunho baseado nas **1:1s** (jul/ago). A **autorreflexão da Ana ainda não foi submetida/enviada** — quando chegar, cruzar e ajustar.  
-> Troque `[...]` por citações reais quando os feedbacks chegarem.
+> **Como usar:** rascunho baseado nas **1:1s** (jul/ago) + **feedbacks Rafael, Jessica e Celline (08/09)**.  
+> Justificativa pronta e atualizada: `15-justificativa-recomendacao.md`.  
+> Autorreflexão da Ana: cruzar quando ela submeter.
 
 ---
 
@@ -42,7 +43,7 @@ Valido a autoavaliação de Ana Karina quanto à entrega no **app nativo Bradesc
 
 **O que sustenta a avaliação:** desenvolvimento Android nativo com qualidade; evolução técnica contínua; participação em ambiente complexo (time misto Avanade/cliente); amadurecimento na leitura **ponta a ponta** do fluxo (incl. conversas com backend/arquitetura Square), o que melhora a colaboração mesmo atuando no front mobile.
 
-**O que ainda falta para nota mais alta:** evidências formais do projeto (feedback escrito do **Rafael Coloda**, lista objetiva de features/PRs/impactos). Recomendo calibrar com o gestor: `[inserir citação ou síntese do feedback de Rafael Coloda quando disponível]`.
+**O que ainda falta para nota mais alta:** formalizar lista objetiva de features/PRs. Feedback do gestor **já recebido** (Rafael Coloda, 08/09): desempenho consistente, qualidade, comunicação de riscos; evolução: horas no Jira.
 
 **Desenvolvimento:** registrar entregas com nomes e métricas; alinhar periodicamente percepção de performance com o líder de projeto.
 
@@ -68,7 +69,7 @@ Esta é a **frente mais forte** da Ana Karina no FY26 e alinhada ao que a práti
 
 **Evidências adicionais:** participação em **IADrops** com João (projeto Bradesco); prompts reutilizáveis pensados para Android e iOS; **AZ-900 concluída**. A certificação **AI-900** formal foi conscientemente adiada por carga de faculdade + priorização do cliente — decisão madura, não gap de comprometimento. Badge de IA foundations: **FY27**.
 
-**Validação técnica pendente:** feedback da **Jessica** (liderança técnica Avanade): `[inserir citação quando disponível]`.
+**Validação técnica:** feedback da **Jessica** (08/09): evolução consistente, qualidade, comunicação de riscos; próximo ciclo = autonomia técnica/funcional. Par **Celline**: colaboração positiva, organização, qualidade e prazos.
 
 **Desenvolvimento:** formalizar 1 case escrito (problema → agente → efeito); skill Copilot **primário** no mini CV; compartilhar aprendizado na comunidade da prática quando a agenda permitir.
 

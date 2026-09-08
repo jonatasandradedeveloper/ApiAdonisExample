@@ -9,13 +9,14 @@ Briefing do People Lead para Workday, calibração da prática e feedback de nov
 
 | Pergunta da calibração | Leitura atual (24/08) | Confirmar em setembro |
 |---|---|---|
-| Pronta para promoção (Associate → Analyst)? | **Não como tese principal deste FY**, salvo evidência excepcional do projeto | Adm. 01/04/2026 (~5 meses) + feedback **Rafael Coloda** |
-| Mérito / destaque de Associate? | **Sim, se Copilot + entrega aparecerem no Workday** | Homologação + agentes IA + feedback Jessica |
-| Mensagem de feedback | “Você priorizou o cliente com razão. O ciclo precisa enxergar isso. Inglês C1+ já é resultado. IA e Swift continuam no plano, com menos itens ao mesmo tempo.” | |
+| Pronta para promoção (Associate → Analyst)? | **Não neste FY** — confirmado pelos feedbacks (consolidação/autonomia) | Feedbacks Rafael + Jessica + Celline (08/09) |
+| Mérito / destaque de Associate? | **Sim** — qualidade, riscos, colaboração | Evidências dos 3 feedbacks |
+| Mensagem de feedback | “Você priorizou o cliente com razão. Qualidade e comunicação de riscos foram reconhecidas. Foque autonomia e disciplina no Jira. Inglês C1+ e AZ-900 já são resultado.” | |
 
-**Justificativa da Recomendação (pronta para colar):** `15-justificativa-recomendacao.md`
+**Justificativa da Recomendação (pronta):** `15-justificativa-recomendacao.md`  
+**Feedbacks brutos / síntese:** `16-feedbacks-projeto-rafael-jessica-celline.md`
 
-Levar para a prática: **Associate mobile no BANCO BRADESCO (app nativo), homologação em curso, agentes Copilot/IA (analytics + frontend), inglês C1+, norte de arquitetura. Risco: prioridades dispersas no Workday — mitigado na 1:1 #2 com 4 reflexões.**
+Levar para a prática: **Associate mobile no BANCO BRADESCO, desempenho consistente confirmado por gestor (Rafael Coloda), liderança técnica (Jessica) e par (Celline). Qualidade + comunicação de riscos + colaboração. Desenvolvimento: autonomia em complexidade + horas no Jira. Não promover neste FY.**
 
 ## Roteiro da autoavaliação (ela escreve; PL revisa)
 
@@ -56,8 +57,9 @@ Só escrever voluntariado / impacto social se houver fato. Senão, uma linha: �
 
 | Quem | Por quê | Status |
 |---|---|---|
-| Rafael Coloda (gestor do projeto) | Performance no app / homologação | rafael.coloda@avanade.com — Ana agenda café de percepção |
-| **Jessica** (liderança técnica Avanade) | Proximidade técnica; validação Copilot/agentes | Ana já pediu antes; reforçar no Workday; PL alinha |
+| Rafael Coloda (gestor do projeto) | Performance no app / homologação | **Feedback recebido 08/09** — ver `16-feedbacks-projeto-rafael-jessica-celline.md` |
+| **Jessica** (liderança técnica Avanade) | Proximidade técnica | **Feedback recebido 08/09** |
+| **Celline** (par) | Colaboração no dia a dia | **Feedback recebido 08/09** |
 | Par Android e par iOS | Colaboração e prompt compartilhado | Ana pede feedback |
 | João / IADrops (Bradesco) | Direcionamento de IA | Citado na reflexão |
 | Osvaldo / alguém de IADrops | Valida a frente de Copilot, se fizer sentido | Opcional |

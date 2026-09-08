@@ -46,7 +46,8 @@ ANA_SECTIONS = [
     ("09-autorreflexao-passo-a-passo.md", "12. Autorreflexão ABCD — passo a passo (Ana)"),
     ("12-abcd-form-people-lead-rascunho.md", "13. ABCD Form — rascunho do People Lead"),
     ("15-justificativa-recomendacao.md", "14. Justificativa da Recomendação"),
-    ("13-orientacao-ciclo-ana.md", "15. Orientação do ciclo (Ana Karina)"),
+    ("16-feedbacks-projeto-rafael-jessica-celline.md", "15. Feedbacks de projeto (Rafael, Jessica, Celline)"),
+    ("13-orientacao-ciclo-ana.md", "16. Orientação do ciclo (Ana Karina)"),
 ]
 
 VEREDITO = (

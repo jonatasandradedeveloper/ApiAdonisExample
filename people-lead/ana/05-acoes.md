@@ -8,16 +8,15 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 
 - [x] Agendar e realizar 1:1 #2 (28/08 — foco Workday)
 - [x] E-mail gestor confirmado — **Rafael Coloda** (rafael.coloda@avanade.com) via RH
-- [ ] Pedir feedback **Rafael Coloda** (e-mail pronto em `14-pedidos-feedback.md`)
-- [ ] Pedir feedback **Jessica** (Teams/Workday)
-- [ ] Cobrar Ana: autorreflexão + pedido de feedback no Workday
+- [x] Pedir feedback **Rafael Coloda** — **recebido 08/09**
+- [x] Pedir feedback **Jessica** — **recebido 08/09**
+- [x] Feedback **Celline** (par) — **recebido 08/09**
+- [ ] Cobrar Ana: autorreflexão ABCD (ainda pendente no histórico PL)
+- [ ] **Input ABCD Form + Justificativa** — usar `15-justificativa-recomendacao.md` (já com feedbacks)
+- [ ] Na 1:1 #3: alinhar ponto Jira (horas) + autonomia + quadro T/S/A
 - [ ] Enviar material Copilot + docs **PUG** para Ana
-- [ ] Falar com **Jessica** para feedback no Workday
 - [ ] Pegar e-mail da Paula (CA anterior), se ainda não chegou
-- [ ] Confirmar submissão da autorreflexão ABCD — **não recebida do PL até 28/08**
-- [ ] **Input ABCD Form no Workday — até 11/09/2026** — usar `12-abcd-form-people-lead-rascunho.md` + **`15-justificativa-recomendacao.md`**
-- [ ] Revisar insumos (`04-insumos-ciclo.md`) antes do input PL
-- [ ] Combinar expectativa de cargo (consolidar vs. Analyst) — **pauta 1:1 #3**
+- [ ] Combinar expectativa de cargo (consolidar vs. Analyst) — **pauta 1:1 #3** (feedbacks já apontam consolidação)
 - [ ] Agendar 1:1 #3 com quadro trimestre / semestre / ano
 
 ### Ana Karina
@@ -56,3 +55,4 @@ Lista operacional. Marque, datar, mover para o histórico quando concluir.
 | 2026-08-24 | Dossiê inicial do PL | PL | Parecer: recortar 7 prioridades; Copilot é o ouro |
 | 2026-08-28 | 1:1 #2 | ambos | Workday ABCD; Swift→FY27; agentes IA; feedback Jessica |
 | 2026-08-28 | E-mail RH Talent | PL | Rafael Coloda confirmado; input PL até **11/09**; admissão 01/04/2026 |
+| 2026-09-08 | Feedbacks projeto | Rafael, Jessica, Celline | Incorporados na justificativa de recomendação |

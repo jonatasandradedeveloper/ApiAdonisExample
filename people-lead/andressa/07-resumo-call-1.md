@@ -1,5 +1,7 @@
 # Resumo da call — Andressa Silva
 
+> **Uso interno People Lead** — histórico da conversa. Não enviado à Andressa.
+
 **1:1 #1 · 28/07/2026**  
 People Lead: Jônatas · Cliente: **MAPFRE** · Cargo: Analyst, Back-End Developer
 
@@ -59,11 +61,8 @@ Primeira conversa após a troca de CA: Andressa está engajada com o People Lead
 - Mobilidade: escutar, documentar, **não prometer** saída na próxima call.
 - Próxima call deve fechar prioridades, autoavaliação e escada realista de certificação.
 
-## Ajuda para preencher a Autorreflexão (ABCD) — até 28/08
+## Notas PL — Workday ABCD
 
-Doc pronto com passo a passo na tela + textos para colar + Atualidade ≤150 caracteres:
+Orientação na call / cobrança — **guia escrito não enviado** à Andressa.
 
-- Markdown: `people-lead/andressa/09-autorreflexao-passo-a-passo.md`
-- Word: `DOCS-PEOPLE-LEAD/Andressa-Silva/05-Autorreflexao-passo-a-passo.docx`
-
-Resumo do caminho: Priorities Homepage → **Edit >** → **Submeta e Refleta** → colar reflexão → slider → Atualidade (máx. 150) → **Enviar**.
+Referência interna: `09-autorreflexao-passo-a-passo.md` — usar só para orientar verbalmente ou cruzar após submissão.

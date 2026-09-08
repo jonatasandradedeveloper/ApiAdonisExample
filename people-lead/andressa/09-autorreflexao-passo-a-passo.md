@@ -1,9 +1,10 @@
 # Andressa Silva — Passo a passo da Autorreflexão (ABCD)
-**Cliente: MAPFRE · Analyst, Back-End · Prazo: 28/08**  
+**Referência interna do People Lead — não enviada à Andressa**  
+Cliente: MAPFRE · Analyst, Back-End · Prazo prática ~28/08  
 People Lead: Jônatas
 
-Use junto com o resumo da call e o doc de prioridades.  
-Aqui está **só o caminho na tela** + textos para colar na **Autorreflexão**.
+> Este arquivo é **seu histórico/referência** (orientação na call ou cruzamento quando ela submeter). **Não repassar como documento.**  
+> Textos abaixo: base se precisar orientar de novo ou cruzar com o ABCD Form.
 
 ---
 

@@ -17,9 +17,10 @@ Tudo aqui é editável. A cada 1:1, atualize o histórico, o status das priorida
 
 | Arquivo | Conteúdo |
 |---|---|
-| [`word/Andressa-Silva-Historico-Completo-People-Lead.docx`](word/Andressa-Silva-Historico-Completo-People-Lead.docx) | Capa, sumário, ficha, 1:1s, prioridades, carreira, ciclo, ações, anexos — cliente **MAPFRE** |
+| [`word/Andressa-Silva-Historico-Completo-People-Lead.docx`](word/Andressa-Silva-Historico-Completo-People-Lead.docx) | Dossiê base (ficha, 1:1s, prioridades, carreira, ciclo, ações) — **MAPFRE** |
+| [`word/Andressa-Silva-Documento-Unico-People-Lead.docx`](word/Andressa-Silva-Documento-Unico-People-Lead.docx) | **Documento único Andressa** — tudo num arquivo (uso interno PL) |
 | [`word/Ana-Karina-Historico-Completo-People-Lead.docx`](word/Ana-Karina-Historico-Completo-People-Lead.docx) | Dossiê base (ficha, 1:1s, prioridades, carreira, ciclo, ações) — **BANCO BRADESCO** |
-| [`word/Ana-Karina-Documento-Unico-People-Lead.docx`](word/Ana-Karina-Documento-Unico-People-Lead.docx) | **Documento único Ana** — tudo num arquivo (calls, Workday, ABCD PL, RH, etc.) |
+| [`word/Ana-Karina-Documento-Unico-People-Lead.docx`](word/Ana-Karina-Documento-Unico-People-Lead.docx) | **Documento único Ana** — tudo num arquivo (uso interno PL) |
 
 ### Planejamento separado (carreira × empresa)
 
@@ -44,6 +45,12 @@ Regenerar o **documento único da Ana**:
 
 ```bash
 cd people-lead && python3 generate_ana_documento_unico.py
+```
+
+Regenerar o **documento único da Andressa**:
+
+```bash
+cd people-lead && python3 generate_andressa_documento_unico.py
 ```
 
 ### Demais arquivos Word

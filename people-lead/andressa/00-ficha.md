@@ -1,5 +1,7 @@
 # Andressa Silva — ficha
 
+> **Uso interno People Lead** — histórico de acompanhamento. **Não enviado à Andressa.**
+
 Atualizar o topo desta ficha sempre que mudar alocação, cargo ou sinal de risco.
 
 | Campo | Valor | Atualizado em |
@@ -14,7 +16,7 @@ Atualizar o topo desta ficha sempre que mudar alocação, cargo ou sinal de risc
 | 1:1 cadência | Mensal (combinado na call 1) | 2026-07-28 |
 | Próxima 1:1 | **Agendar imediatamente** (call 1 foi 28/07; ciclo fecha em setembro) | 2026-08-24 |
 
-> Correção 24/08: cliente oficial é **MAPFRE**. Não confundir com Ana Karina (BANCO BRADESCO).
+> Cliente oficial: **MAPFRE** — sustentação / stack legado.
 
 ## Leitura rápida para o People Lead
 

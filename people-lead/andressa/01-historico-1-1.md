@@ -1,5 +1,7 @@
 # Andressa Silva — histórico de 1:1s
 
+> **Uso interno People Lead** — registro das conversas. Não enviado à Andressa.
+
 Arquivo **append-only**: a conversa nova entra no topo. Não reescreva o passado; se algo mudou, registre na 1:1 nova.
 
 Cadência combinada: **no mínimo 1x por mês**.

@@ -4,17 +4,25 @@ PASTA PRINCIPAL DOS DOCUMENTOS WORD — People Lead
    Histórico das mentoradas. NÃO enviado à Ana nem à Andressa.
 
 ⚠️ URGENTE
-  Feedbacks mentorados → DOCS-PEOPLE-LEAD/00-Pedidos-Feedback-Mentorados.docx
-  Ana — autorreflexão ABCD: pendente · PL ABCD Form: até 11/09
+  Feedbacks → 00-Pedidos-Feedback-Mentorados.docx
+  Ana — ABCD Form PL: até 11/09
+  Andressa — agendar 1:1 #2 + e-mail Rafael Martins
+
+═══════════════════════════════════════════════════════════
+  ANDRESSA SILVA (MAPFRE)
+═══════════════════════════════════════════════════════════
+
+  ★ 00-Documento-Unico.docx  ← SEU histórico completo (só Andressa, uso interno)
+  06-Pedidos-Feedback.docx
 
 ═══════════════════════════════════════════════════════════
   ANA KARINA (BANCO BRADESCO)
 ═══════════════════════════════════════════════════════════
 
   ★ 00-Documento-Unico.docx  ← SEU histórico completo (só Ana, uso interno)
-  09-Pedidos-Feedback.docx   ← msgs Rafael Coloda + Jessica + Ana
+  09-Pedidos-Feedback.docx
 
-Andressa Silva (MAPFRE)
-  06-Pedidos-Feedback.docx   ← msgs Rafael Martins + Andressa
+Jonatas
+  02-Pedir-Feedback-PL-Ana-e-Andressa.docx
 
 Branch: cursor/people-lead-historico-carreira-7fba

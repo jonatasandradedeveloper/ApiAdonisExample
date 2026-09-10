@@ -39,9 +39,11 @@ SECTIONS = [
     ("14-pedidos-feedback.md", "9. Pedidos de feedback (gestor / colega)"),
     ("16-feedbacks-projeto.md", "10. Feedbacks de projeto (Camila, Renata, Rafael)"),
     ("15-justificativa-recomendacao.md", "11. Justificativa da Recomendação"),
-    ("08-workday-prioridades-abcd.md", "12. Workday — prioridades e ABCD"),
-    ("09-autorreflexao-passo-a-passo.md", "13. Autorreflexão ABCD — referência PL"),
-    ("13-orientacao-ciclo-andressa.md", "14. Orientação do ciclo (Andressa Silva)"),
+    ("17-comportamento-desenvolvimento-workday.md", "12. Comportamento e Desenvolvimento (Workday)"),
+    ("18-areas-de-impacto-workday.md", "13. Áreas de Impacto (Workday)"),
+    ("08-workday-prioridades-abcd.md", "14. Workday — prioridades e ABCD"),
+    ("09-autorreflexao-passo-a-passo.md", "15. Autorreflexão ABCD — referência PL"),
+    ("13-orientacao-ciclo-andressa.md", "16. Orientação do ciclo (Andressa Silva)"),
 ]
 
 VEREDITO = (

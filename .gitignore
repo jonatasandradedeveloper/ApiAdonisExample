@@ -11,3 +11,5 @@ tmp
 database/*.sqlite
 
 docker
+__pycache__/
+*.pyc

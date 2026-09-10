@@ -24,15 +24,8 @@ Para o próximo ciclo, o foco principal é ampliar a autonomia técnica e funcio
 
 ---
 
-## Atenção — Areas of Impact (sistema)
+## Atenção — Areas of Impact
 
-O texto automático/áreas de impacto que veio no perfil tem pontos a **não repetir** sem evidência:
+Textos prontos do PL (corrigidos): `18-areas-de-impacto-workday.md` / `13-Areas-de-Impacto.docx`.
 
-| Item no sistema | Nossa leitura |
-|---|---|
-| AI-900 concluída | No histórico PL: **AZ-900** concluída; AI-900 era FY27 / a confirmar |
-| Client Value Creation sem reflexão | Combinar com ela ou reforçar entrega Bradesco/homologação na narrativa PL |
-| Community (saúde / escolas técnicas) | Nas 1:1 a frente comunidade estava **limitada** (faculdade + projeto) — não inflar |
-| Swift como foco imediato | Combinado **FY27** (sem MacBook) — crescimento agora = autonomia Kotlin/Android + Jira |
-
-Use os textos desta página (baseados em Rafael / Jessica / Celline + 1:1s).
+Não repetir sem evidência: AI-900 como concluída; Community inflada; Swift como foco imediato.

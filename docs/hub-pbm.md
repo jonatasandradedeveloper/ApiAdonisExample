@@ -1,13 +1,36 @@
 # Hub PBM — como funciona
 
-Documento de alinhamento sobre o papel do **Hub PBM** na jornada de Programa de Benefícios de Medicamentos da Pague Menos.
+Documento de alinhamento interno, construído **em conjunto** pelo time Pague Menos (Digital, PBM e jornada Comercial) e pela Accenture / Avanade.
 
-Baseado exclusivamente nas reuniões:
+| | |
+|---|---|
+| Uso | Interno — alinhamento de produto, arquitetura e jornadas |
+| Data | Setembro 2026 |
+| Elaboração | Accenture / Avanade, em conjunto com o time Pague Menos |
+| Objetivo | Ter uma referência única de como o Hub PBM se relaciona com canais e autorizadores |
+| PDF para compartilhar | `docs/analise-hub-fluxo-pague-menos.pdf` |
 
-- PM — Organização KT PM (Victor)
-- Plano de digitalização / Travessia
-- Discovery PBM (onboarding técnico Accenture)
-- Discovery PBM (visão de negócio e jornada)
+### Envolvidos
+
+| Nome | Empresa | E-mail |
+|---|---|---|
+| Danilo R. Bernardo | Avanade | danilo.r.bernardo@avanade.com |
+| Jonatas A. Andrade da Silva | Avanade | j.a.andrade.da.silva@avanade.com |
+| Pedro Luis Celotto | Avanade | pedro.luis.celotto@avanade.com |
+| Mariana V. B. Pinheiro | Accenture | mariana.v.b.pinheiro@accenture.com |
+
+## Como este documento foi construído
+
+Este material não inventa arquitetura. Ele consolida, em linguagem comum, o que o time já apresentou nas sessões de knowledge transfer e discovery:
+
+- **PM — Organização KT PM**, com a visão de Victor sobre digital, Vitrax, Hub de Integrações e jornadas
+- **Travessia**, com o diagnóstico da jornada de compra e os 4 atos da autorização PBM
+- **Discovery PBM** (visão de negócio e jornada), com a explicação da Edicleide sobre elegibilidade, CPF, regras e experiência
+- **Discovery PBM** (onboarding técnico Accenture), com arquitetura do Hub, autorizadores, repositórios e monitoramento
+
+A consolidação foi feita em conjunto com o time para que produto, design, engenharia e operação usem o mesmo entendimento: **o canal pede, o Hub orquestra, o autorizador decide**.
+
+Se algum ponto divergir do que foi dito nas sessões, o ajuste deve ser feito neste documento, com o time.
 
 ---
 
@@ -243,3 +266,7 @@ Fluxo de deploy: desenvolvimento → PR → revisões → testes → quality gat
 O Hub PBM é o intermediário obrigatório entre canais e autorizadores. Ele não “repassa um token” para o app chamar o autorizador. Ele executa cadastro, elegibilidade, autorização, reautorização e, no PDV, a efetivação da venda.
 
 App e site nunca devem integrar direto com Interplayers, Funcional, ePharma ou IQ. Qualquer evolução de jornada (formulário dinâmico, mensagens de erro, primeira autorização, reautorização no checkout) passa pelo Hub.
+
+Este alinhamento foi construído em conjunto com o time. A versão para compartilhar internamente é o PDF `docs/analise-hub-fluxo-pague-menos.pdf`.
+
+Elaboração: Danilo R. Bernardo, Jonatas A. Andrade da Silva, Pedro Luis Celotto (Avanade) e Mariana V. B. Pinheiro (Accenture).

@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <title>Análise Hub e fluxo — Pague Menos</title>
+  <style>
+    @page {
+      size: letter;
+      margin: 1in;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: #000;
+      font-family: "Noto Sans", Calibri, "Segoe UI", Arial, sans-serif;
+      font-size: 12pt;
+      line-height: 1.2;
+    }
+
+    h1, h2, h3 { color: #0F4761; font-weight: 700; page-break-after: avoid; }
+
+    h1 {
+      font-size: 24pt;
+      margin: 0 0 16pt;
+      line-height: 1.2;
+    }
+
+    h2 {
+      font-size: 18pt;
+      margin: 22pt 0 12pt;
+    }
+
+    h3 {
+      font-size: 14pt;
+      margin: 16pt 0 8pt;
+    }
+
+    p { margin: 0 0 10pt; }
+
+    ul, ol {
+      margin: 0 0 12pt;
+      padding-left: 28pt;
+    }
+
+    li { margin-bottom: 4pt; }
+
+    strong { font-weight: 700; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 8pt 0 14pt;
+      page-break-inside: avoid;
+    }
+
+    th, td {
+      border: none;
+      padding: 8pt 10pt 8pt 0;
+      vertical-align: top;
+      text-align: left;
+      font-size: 12pt;
+    }
+
+    th { font-weight: 700; }
+
+    table.qa td:first-child { width: 34%; }
+    table.atos td:nth-child(1) { width: 26%; }
+    table.atos td:nth-child(2) { width: 16%; }
+    table.people td:nth-child(1) { width: 34%; }
+    table.people td:nth-child(2) { width: 22%; }
+
+    pre.diagram {
+      font-family: "Noto Sans Mono", Consolas, "Courier New", monospace;
+      font-size: 10.5pt;
+      line-height: 1.35;
+      white-space: pre;
+      margin: 8pt 0 14pt;
+      background: none;
+      border: none;
+      page-break-inside: avoid;
+    }
+
+    .muted { color: #222; }
+  </style>
+</head>
+<body>
+  <h1>Análise Hub e fluxo — Pague Menos</h1>
+  <p>Documento de alinhamento sobre o papel do <strong>Hub PBM</strong> na jornada de Programa de Benefícios de Medicamentos: quem chama quem entre canais, Hub e autorizadores.</p>
+  <p>Construído <strong>em conjunto</strong> pelo time Pague Menos e pela Accenture / Avanade, a partir das sessões de knowledge transfer e discovery. Arquivo: <strong>analise-hub-fluxo-pague-menos.pdf</strong> · Setembro 2026.</p>
+
+  <h3>Envolvidos</h3>
+  <table class="people">
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>Empresa</th>
+        <th>E-mail</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Danilo R. Bernardo</td>
+        <td>Avanade</td>
+        <td>danilo.r.bernardo@avanade.com</td>
+      </tr>
+      <tr>
+        <td>Jonatas A. Andrade da Silva</td>
+        <td>Avanade</td>
+        <td>j.a.andrade.da.silva@avanade.com</td>
+      </tr>
+      <tr>
+        <td>Pedro Luis Celotto</td>
+        <td>Avanade</td>
+        <td>pedro.luis.celotto@avanade.com</td>
+      </tr>
+      <tr>
+        <td>Mariana V. B. Pinheiro</td>
+        <td>Accenture</td>
+        <td>mariana.v.b.pinheiro@accenture.com</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Baseado exclusivamente nas reuniões:</p>
+  <ul>
+    <li>PM — Organização KT PM (Victor)</li>
+    <li>Plano de digitalização / Travessia</li>
+    <li>Discovery PBM (onboarding técnico Accenture)</li>
+    <li>Discovery PBM (visão de negócio e jornada)</li>
+  </ul>
+
+  <h2>Resposta direta</h2>
+  <p>O Hub chama as APIs dos autorizadores. App e site <strong>não</strong> falam com Interplayers, Funcional ou ePharma. Eles falam só com o Hub.</p>
+  <p>A “autorização” do PBM <strong>não</strong> é um token de API para o canal usar depois. É uma <strong>autorização de negócio</strong>: o autorizador gera um código/transação de desconto. Sem essa autorização, o desconto de laboratório não entra na compra.</p>
+
+  <table class="qa">
+    <thead>
+      <tr>
+        <th>Pergunta</th>
+        <th>Resposta</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>O Hub chama as APIs dos autorizadores?</td>
+        <td><strong>Sim.</strong> Essa é a função central dele.</td>
+      </tr>
+      <tr>
+        <td>Ele só pede autorização passando o token do autorizador?</td>
+        <td><strong>Não.</strong> Ele faz cadastro, elegibilidade, autorização, reautorização e efetivação. A “autorização” é o código de desconto, não um token OAuth para o canal.</td>
+      </tr>
+      <tr>
+        <td>Com essa autorização, o app/site chama as APIs direto?</td>
+        <td><strong>Não.</strong> App e site continuam chamando só o Hub. No PDV, a efetivação final também passa pelo ecossistema interno até o autorizador, não pelo app.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>O canal pede. O Hub orquestra. O autorizador decide elegibilidade, limite e gera a autorização. O Hub devolve o resultado para a tela.</p>
+
+  <h2>Quem chama quem</h2>
+  <pre class="diagram">App  ─┐
+Site ─┼──►  Hub PBM  ──►  Autorizadores (Interplayers, Funcional, ePharma, IQ…)
+PDV  ─┘         │
+                ├── regras internas da Pague Menos
+                └── canais digitais e físicos</pre>
+
+  <p>O <strong>Hub PBM</strong> é a API central do ecossistema. Os canais (app, site, Painel de Vendas / PDV) <strong>não</strong> falam com os autorizadores. Eles falam só com o Hub.</p>
+  <p>A “autorização” do PBM <strong>não</strong> é um token de API para o canal usar depois. É uma <strong>autorização de negócio</strong>: o autorizador gera um código/transação de desconto. Sem essa autorização, o desconto de laboratório não entra na compra.</p>
+
+  <h2>O que o app/site realmente faz</h2>
+  <p>O canal <strong>pede</strong> as operações ao Hub, passando CPF, produto, loja, dados de cadastro etc. O Hub decide <strong>qual autorizador chamar</strong>, chama a API dele, aplica regras internas da Pague Menos e devolve o resultado para a tela.</p>
+  <p>Ou seja: o app <strong>não</strong> “ganha um token do autorizador e passa a chamar a API dele”. Ele continua falando só com o Hub em todas as etapas.</p>
+
+  <h2>Hubs</h2>
+  <p>Nas reuniões aparecem dois conceitos diferentes:</p>
+
+  <h3>Hub de Integrações</h3>
+  <p>Camada larga apresentada pelo Victor (KT PM). Liga:</p>
+  <ul>
+    <li>VTEX</li>
+    <li>Cosmos</li>
+    <li>sistemas internos</li>
+    <li>parceiros</li>
+  </ul>
+  <p>Cada jornada é dona de um pedaço. A jornada <strong>Comercial</strong> é dona das integrações de PBM.</p>
+
+  <h3>Hub PBM</h3>
+  <p>API específica do benefício, apresentada no Discovery técnico. É o pedaço do Hub (jornada Comercial) que de fato chama os autorizadores.</p>
+  <p>Vitrax, no desenho do Victor, também aparece com autenticação, catálogo, carrinho, integrações e PBM. Na prática do Discovery PBM, a conversa com autorizador foi atribuída ao <strong>Hub PBM</strong>, não ao app/site.</p>
+
+  <h2>O que o Hub PBM faz</h2>
+  <p>Responsabilidades descritas na reunião técnica:</p>
+  <ul>
+    <li>centralizar regras de negócio</li>
+    <li>integrar com autorizadores</li>
+    <li>processar elegibilidade</li>
+    <li>processar cadastro de beneficiário</li>
+    <li>processar autorização e reautorização</li>
+    <li>servir app, site e balcão (Painel de Vendas)</li>
+  </ul>
+  <p>Tecnologias mencionadas: .NET, AWS, EKS, Azure DevOps, DataDog, VTEX.</p>
+  <p>Canais consumidores:</p>
+  <ul>
+    <li>Site Pague Menos</li>
+    <li>Aplicativo</li>
+    <li>Balcão, por meio do Painel de Vendas</li>
+    <li>Também citado no contexto de negócio: WhatsApp e lojas físicas</li>
+  </ul>
+
+  <h2>O que os autorizadores fazem</h2>
+  <p>Autorizadores ativos citados no Discovery técnico:</p>
+  <ul>
+    <li>Interplayers</li>
+    <li>Funcional</li>
+    <li>ePharma</li>
+  </ul>
+  <p>Quarto autorizador em integração: <strong>IQ</strong>.</p>
+  <p>Na Travessia aparecem nomes parcialmente distintos (Funcional, Interface, Farm, Equipe), provavelmente por reconhecimento de fala. No Discovery de negócio, o Portal da Drogaria foi citado como denominação oficial de um dos players.</p>
+  <p>O autorizador:</p>
+  <ul>
+    <li>recebe solicitações de elegibilidade</li>
+    <li>processa autorizações</li>
+    <li>mantém programas das indústrias farmacêuticas</li>
+    <li>define regras operacionais dos programas</li>
+    <li>verifica o CPF</li>
+    <li>consulta cadastro no programa</li>
+    <li>controla limites e saldo</li>
+    <li>retorna regras e preços</li>
+    <li>gera autorizações</li>
+    <li>retorna erros ou negativas</li>
+    <li>define determinados campos obrigatórios do cadastro</li>
+  </ul>
+  <p>Laboratórios podem migrar de autorizador conforme interesse comercial. Por isso o Hub precisa absorver essa troca, e os canais não podem depender da API de cada um.</p>
+  <p>Uma mesma campanha não deve estar simultaneamente em autorizadores diferentes, evitando sobreposição de condições para o mesmo medicamento.</p>
+  <p>Interplayers foi citado como o autorizador mais estável. Funcional e ePharma apresentam oscilações mais frequentes.</p>
+
+  <h2>Jornada digital do cliente</h2>
+  <ol>
+    <li><strong>Acesso ao produto</strong> — o cliente entra na PDP (site ou app).</li>
+    <li><strong>Identificação e elegibilidade</strong> — informa o CPF (no app logado, o CPF já pode vir preenchido). O Hub autentica no autorizador, verifica credenciamento da loja e elegibilidade do CPF.</li>
+    <li><strong>Seleção de regra</strong> — se elegível, o cliente vê as regras retornadas, escolhe uma e solicita autorização.</li>
+    <li><strong>Informações complementares</strong> — se o programa exigir: receita, CRM do médico, termos, dados extras.</li>
+    <li><strong>Checkout e reautorização</strong> — o produto segue para o checkout, a loja de retirada é escolhida, e o Hub faz nova autorização com o CNPJ da loja que vai faturar.</li>
+    <li><strong>Conclusão</strong> — o pedido é concluído.</li>
+    <li><strong>Autorização final</strong> — na loja, o PDV efetiva a venda junto ao autorizador (na Travessia, o 4º ato / BC Pharma).</li>
+  </ol>
+  <p>A autorização é etapa obrigatória. Sem ativação do programa e autorização correspondente, o desconto de laboratório não é aplicado.</p>
+
+  <h3>Quando o cliente não tem cadastro</h3>
+  <ol>
+    <li>O Hub identifica a ausência de cadastro.</li>
+    <li>O canal carrega o formulário.</li>
+    <li>O cliente preenche.</li>
+    <li>O cadastro <strong>é enviado pelo Hub ao autorizador</strong>.</li>
+    <li>A elegibilidade é executada novamente.</li>
+    <li>O fluxo segue para autorização.</li>
+  </ol>
+  <p>Há uma iniciativa para tornar o formulário do aplicativo <strong>dinâmico</strong>: exibir só os campos exigidos pelo autorizador para aquele SKU/programa.</p>
+
+  <h3>Pós-venda na loja</h3>
+  <ol>
+    <li>O pedido chega à loja.</li>
+    <li>A loja imprime uma pré-venda.</li>
+    <li>O operador carrega a venda no PDV.</li>
+    <li>O sistema executa a transação junto ao autorizador.</li>
+    <li>A venda é concluída.</li>
+    <li>As movimentações financeiras são registradas.</li>
+  </ol>
+  <p>Em caso de erro, existem rotinas de cancelamento e suporte operacional.</p>
+
+  <h2>Os 4 atos da autorização</h2>
+  <p>Não são 4 chamadas do app ao autorizador. São 4 momentos em que <strong>o Hub (e depois o PDV)</strong> conversa com o autorizador.</p>
+  <table class="atos">
+    <thead>
+      <tr>
+        <th>Ato</th>
+        <th>Onde</th>
+        <th>O que acontece</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1. Identificação / cadastro</td>
+        <td>PDP</td>
+        <td>Hub consulta o CPF no autorizador; se não existir, cadastra</td>
+      </tr>
+      <tr>
+        <td>2. Primeira autorização</td>
+        <td>PDP</td>
+        <td>Hub pede a autorização do desconto para aquele CPF + SKU</td>
+      </tr>
+      <tr>
+        <td>3. Reautorização</td>
+        <td>Checkout</td>
+        <td>Hub autoriza de novo com o CNPJ da loja que vai faturar</td>
+      </tr>
+      <tr>
+        <td>4. Autorização final</td>
+        <td>PDV / loja</td>
+        <td>A venda é efetivada no autorizador (órgão regulador / BC Pharma)</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>Por isso a Travessia priorizou a <strong>refatoração do fluxo de primeira autorização</strong>: é o maior esforço, e é o Hub quem orquestra isso, não o app isolado.</p>
+  <p>A Travessia priorizou essa refatoração como maior esforço do backlog PBM para Black Friday, junto com:</p>
+  <ul>
+    <li>reformulação do formulário dinâmico (back-end + UX)</li>
+    <li>sanitização de back-end</li>
+    <li>sanitização de UX</li>
+  </ul>
+
+  <h2>Regras internas da Pague Menos</h2>
+  <p>A companhia <strong>não depende exclusivamente</strong> das regras dos autorizadores. Mantém:</p>
+  <ul>
+    <li>cadastro próprio de regras</li>
+    <li>processo próprio de aprovação</li>
+    <li>governança própria</li>
+  </ul>
+  <p>Nem todo desconto da indústria é vantajoso, considerando margem, custos operacionais e taxas dos autorizadores. As regras aprovadas são armazenadas internamente e usadas pelos canais digitais.</p>
+  <p>O Hub, portanto, combina:</p>
+  <ol>
+    <li>o retorno do autorizador (elegibilidade, limite, preço, autorização)</li>
+    <li>as regras comerciais internas da Pague Menos</li>
+  </ol>
+
+  <h3>PBM não acumula com outras promoções</h3>
+  <p>Desconto de laboratório e promoção própria não devem coexistir na mesma compra. Fontes de aporte diferentes; acúmulo compromete margem e conciliação. Ao ativar PBM, a promoção anterior precisa ser removida. Essa decisão comercial fica na orquestração do Hub/canais, não no autorizador.</p>
+
+  <h2>Elegibilidade e papel do CPF</h2>
+  <p>O benefício é vinculado a um CPF válido. Antes de ativar o desconto, o fluxo verifica:</p>
+  <ul>
+    <li>se o CPF está cadastrado no programa</li>
+    <li>se atende aos critérios da campanha</li>
+    <li>se ainda existe saldo ou quantidade disponível</li>
+    <li>se o limite mensal ou anual foi atingido</li>
+    <li>se já usou condição de primeira compra</li>
+    <li>se há pendências de cadastro ou aceite de termos</li>
+  </ul>
+  <p>A regra efetivamente oferecida é a <strong>retornada pelo autorizador para aquele CPF</strong>. Preços exibidos na página não são garantia.</p>
+  <p>A condição de primeira compra considera o histórico do CPF <strong>no programa</strong>, não só na Pague Menos. Se o cliente já usou o benefício em outra rede, pode não estar mais elegível.</p>
+
+  <h2>Por que o Hub existe (e não o canal direto)</h2>
+  <ol>
+    <li><strong>Um canal, vários autorizadores.</strong> App/site não precisam conhecer contrato, autenticação e particularidades de cada um.</li>
+    <li><strong>Motor interno de regras.</strong> A Pague Menos não aplica automaticamente tudo o que a indústria oferece. Há cadastro próprio, aprovação e governança (margem, taxa do autorizador, custo operacional). O Hub usa as regras internas e o retorno do autorizador.</li>
+    <li><strong>PBM não acumula com outras promoções.</strong> Essa decisão comercial fica na orquestração, não no autorizador.</li>
+    <li><strong>Observabilidade.</strong> DataDog mede latência, sucesso e falha por autorizador, e tenta separar falha do Hub vs. falha do terceiro. Interplayers foi citado como o mais estável; Funcional e ePharma oscilam mais.</li>
+    <li><strong>Omnicanal.</strong> A mesma autorização precisa servir app, site, WhatsApp, loja e Painel de Vendas.</li>
+    <li><strong>Troca de autorizador.</strong> Laboratório pode migrar; o Hub absorve a mudança sem reescrever cada canal.</li>
+  </ol>
+
+  <h2>Observabilidade e desafios técnicos</h2>
+  <p>Monitoramento (DataDog):</p>
+  <ul>
+    <li>latência</li>
+    <li>disponibilidade</li>
+    <li>taxa de sucesso</li>
+    <li>performance dos autorizadores</li>
+    <li>receita impactada por falhas</li>
+  </ul>
+  <p>Desafios citados:</p>
+  <ul>
+    <li>homologação dos autorizadores nem sempre confiável; em alguns casos testes usam partes de produção ou workspaces isolados</li>
+    <li>falha de infraestrutura do autorizador impacta direto a experiência do cliente</li>
+    <li>cache da VTEX já gerou reutilização indevida; mitigação com identificadores randômicos em chamadas específicas</li>
+  </ul>
+
+  <h2>Stack e repositórios mencionados</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Camada</th>
+        <th>Ferramentas</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Backend</td><td>Visual Studio, .NET</td></tr>
+      <tr><td>Front-end</td><td>VS Code, VTEX CLI</td></tr>
+      <tr><td>Mobile</td><td>Android Studio</td></tr>
+      <tr><td>Banco</td><td>SQL Server</td></tr>
+      <tr><td>DevOps</td><td>Azure DevOps, PR, GMUD</td></tr>
+      <tr><td>Monitoramento</td><td>DataDog</td></tr>
+    </tbody>
+  </table>
+  <p>Repositórios compartilhados no Discovery: Hub PBM, API do app, front-end do app, site Pague Menos, Painel de Vendas, site Extrafarma.</p>
+  <p>Fluxo de deploy: desenvolvimento → PR → revisões → testes → quality gates → aprovação arquitetural → GMUD → produção.</p>
+
+  <h2>Síntese</h2>
+  <p>O Hub PBM é o intermediário obrigatório entre canais e autorizadores. Ele não “repassa um token” para o app chamar o autorizador. Ele executa cadastro, elegibilidade, autorização, reautorização e, no PDV, a efetivação da venda.</p>
+  <p>App e site nunca devem integrar direto com Interplayers, Funcional, ePharma ou IQ. Qualquer evolução de jornada (formulário dinâmico, mensagens de erro, primeira autorização, reautorização no checkout) passa pelo Hub.</p>
+  <p class="muted">Documento interno construído em conjunto com o time Pague Menos. Elaboração: Danilo R. Bernardo, Jonatas A. Andrade da Silva, Pedro Luis Celotto (Avanade) e Mariana V. B. Pinheiro (Accenture). Setembro 2026.</p>
+</body>
+</html>

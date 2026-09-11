@@ -1,6 +1,8 @@
-# Hub PBM — como funciona
+# Análise Hub e fluxo — Pague Menos
 
-Documento de alinhamento interno, construído **em conjunto** pelo time Pague Menos (Digital, PBM e jornada Comercial) e pela Accenture / Avanade.
+Documento de alinhamento interno sobre o **Hub PBM**: quem chama quem entre canais, Hub e autorizadores.
+
+Construído **em conjunto** pelo time Pague Menos (Digital, PBM e jornada Comercial) e pela Accenture / Avanade.
 
 | | |
 |---|---|

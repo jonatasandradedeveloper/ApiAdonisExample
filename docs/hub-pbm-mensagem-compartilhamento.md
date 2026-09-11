@@ -6,7 +6,7 @@ Texto pronto para Slack, Teams ou e-mail. Anexar o PDF `docs/analise-hub-fluxo-p
 
 ## Assunto
 
-Alinhamento Hub PBM — documento construído em conjunto com o time
+Análise Hub e fluxo — Pague Menos
 
 ---
 
@@ -14,7 +14,7 @@ Alinhamento Hub PBM — documento construído em conjunto com o time
 
 Pessoal,
 
-compartilhamos o documento de alinhamento **Hub PBM — como funciona**, construído em conjunto com o time a partir das sessões de KT e Discovery:
+compartilhamos o documento **Análise Hub e fluxo — Pague Menos** (`analise-hub-fluxo-pague-menos.pdf`), construído em conjunto com o time a partir das sessões de KT e Discovery:
 
 - PM — Organização KT PM (Victor)
 - Travessia
